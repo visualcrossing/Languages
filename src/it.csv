@@ -1,0 +1,128 @@
+id,desc
+sky,Copertura del cielo
+wdir,Direzione del vento
+temp,Temperatura
+dew,Punto di rugiada
+humidity,Umidità relativa
+heatindex,Indice di calore
+maxt,Temperatura massima
+mint,Temperatura minima
+wspd,Velocità del vento
+wgust,Raffiche
+wdir,Direzione del vento
+precip,Precipitazioni
+estprecip,Precipitazioni stimate
+precipcover,Estensione delle precipitazioni
+visibility,Visibilità
+cloudcover,Coperto dalle nuvole
+latlon,Latitudine e longitudine
+address,Indirizzo
+sealevelpressure,Pressione sul livello del mare
+stationdistance,Distanza media della stazione meteorologica
+pop,Possibili precipitazioni (%)
+snow,Neve
+snowdepth,Neve
+windchill,Vento gelido
+solarradiation,Radiazione solare
+solarenergy,Energia solare
+sunshine,Luce del sole
+stationInfo,Stazioni meteorologiche attive
+weatherType,Tipo di tempo
+type_1,Neve che soffia o viene trasportata
+type_2,Pioviggine
+type_3,Pioviggine intensa
+type_4,Pioviggine debole
+type_5,Pioviggine intensa / Pioggia
+type_6,Pioviggine debole / Pioggia
+type_7,Tempesta di polvere
+type_8,Nebbia
+type_9,Pioviggine gelata / Pioggia gelata
+type_10,Pioviggine gelata intensa / Pioggia gelata
+type_11,Pioviggine gelata debole / Pioggia gelata
+type_12,Nebbia gelata
+type_13,Pioggia gelata intensa
+type_14,Pioggia gelata debole
+type_15,Nube a imbuto / Tornado
+type_16,Grandinate
+type_17,Ghiaccio
+type_18,Fulmini senza tuoni
+type_19,Nebbia
+type_20,Precipitazioni nelle vicinanze
+type_21,Pioggia
+type_22,Pioggia intensa e neve
+type_23,Pioggia debole e neve
+type_24,Rovesci di pioggia
+type_25,Pioggia intensa
+type_26,Pioggia leggera
+type_27,Diminuzione della nuvolosità or Copertura in diminuzione
+type_28,Aumento della nuvolosità or Copertura in aumento
+type_29,Nuvolosità invariata
+type_30,Fumo o foschia
+type_31,Neve
+type_32,Rovesci di pioggia e neve
+type_33,Rovesci di neve
+type_34,Forti nevicate
+type_35,Neve leggera
+type_36,Burrasca
+type_37,Temporale
+type_38,Temporale senza precipitazione
+type_39,Polvere di diamanti
+type_40,Grandine
+type_41,Nuvoloso
+type_42,Parzialmente nuvoloso
+type_43,Sereno
+warmingup,riscaldamento
+coolingdown,raffreddamento
+similartemp,temperature simili continueranno
+raindays,possibili pioggie
+snowdays,possibili nevicate
+norain,nessuna pioggia prevista
+mostdays,diversi giorni
+rainallday,possibili pioggie per tutto il giorno
+rainclearinglater,pioggia che smette più tardi
+rainpm,pioggia pomeridiana
+rainam,pioggia mattutina
+rainearlyam,pioggia nel primo mattino 
+rainlatepm,pioggia nel tardo pomeriggio
+rainampm,pioggia al mattino e al pomeriggio
+rainchance,possibilità di pioggia
+raindefinite,pioggia
+snowallday,possibili nevicate per tutto il giorno
+snowclearinglater,la neve smette più tardi
+snowpm,neve nel pomeriggio
+snowam,neve al mattino
+snowearlyam,neve nel primo mattino
+snowlatepm,neve nel tardo pomeriggio
+snowampm,neve al mattino e al pomeriggio
+snowchance,possibili nevicate
+snowdefinite,neve
+rainsnowallday,possibili pioggie o nevicate per tutto il giorno
+rainsnowclearinglater,pioggia o neve che smette più tardi
+rainsnowpm,pioggia o neve nel pomeriggio
+rainsnowam,pioggia o neve in mattinata
+rainsnowearlyam,neve o pioggia nel primo mattino
+rainsnowlatepm,pioggia o neve nel tardo pomeriggio
+rainsnowampm,pioggia o neve al mattino e al pomeriggio
+rainsnowchance,possibilità di pioggia o neve
+rainsnowdefinite,pioggia o neve
+clear,cielo sereno per tutto il giorno
+overcast,cieli nuvolosi per tutto il giorno
+cloudierpm,nuvolosità nel pomeriggio
+clearingpm,schiarite nel pomeriggio
+variablecloud,giornata parzialmente nuvolosa
+stormsstrong,forti tempeste possibili
+stormspossible,tempeste possibili
+skytempprecip,%s e %s con %s.
+skyprecip,%s con %s.
+sky,%s.
+tempprecipweek,%s con %s.
+tempweek,%s.
+dow1,Lunedi
+dow2,Martedì
+dow3,Mercoledì
+dow4,Giovedì
+dow5,Venerdì
+dow6,Sabato
+dow7,Domenica
+today,Oggi
+tomorrow,Domani

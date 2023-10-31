@@ -1,0 +1,128 @@
+id,desc
+address,Adres
+clear,Bezchmurnie w ciągu dnia
+clearingpm,Po południu rozpogodzenia
+cloudcover,Zachmurzenie 
+cloudierpm,Po południu wzrost zachmurzenia
+coolingdown,ochłodzenie
+dew,Punkt rosy
+dow1,w poniedziałek
+dow2,we wtorek
+dow3,w środę
+dow4,w czwartek
+dow5,w piątek
+dow6,w sobotę
+dow7,w niedzielę
+estprecip,Szacowane opady
+heatindex,Indeks ciepła
+humidity,Wilgotność względna
+latlon,Długość i szerokość geograficzna
+maxt,Temperatura maksymalna
+mint,Temperatura minimalna
+mostdays,przez większość dni
+norain,Nie przewiduje się deszczu
+overcast,Pochmurnie przez cały dzień
+pop,Prawdopodobieństwo opadów %
+precip,Opad atmosferyczny
+precipcover,Pokrycie opadów
+rainallday,Możliwy deszcz przez cały dzień
+rainam,Poranny deszcz
+rainampm,Deszcz rano i popołudniu 
+rainchance,Możliwy deszcz
+rainclearinglater,Deszcz zanikający później
+raindays,Możliwy deszcz
+raindefinite,Deszcz
+rainearlyam,Wcześnie rano deszcz
+rainlatepm,Późnym popołudniem deszcz
+rainpm,Popołudniowy deszcz
+rainsnowallday,Możliwy deszcz lub śnieg przez cały dzień
+rainsnowam,Poranny deszcz lub śnieg
+rainsnowampm,Deszcz lub śnieg rano i po południu 
+rainsnowchance,Możliwy deszcz lub śnieg
+rainsnowclearinglater,Deszcz lub śnieg zanikający później
+rainsnowdefinite,Okresami deszcz lub śnieg
+rainsnowearlyam,Wcześnie rano deszcz lub śnieg
+rainsnowlatepm,Późnym popołudniem deszcz lub śnieg
+rainsnowpm,Popołudniowy deszcz lub śnieg
+sealevelpressure,Ciśnienie nad poziomem morza
+similartemp,Występują podobne temperatury
+sky,Pokrycie nieba
+sky,%s.
+skyprecip,%s. %s.
+skytempprecip,%s. %s. %s.
+snow,Śnieg
+snowallday,Szansa na śnieg przez cały dzień
+snowam,Poranny śnieg
+snowampm,Śnieg rano i popołudniu
+snowchance,Możliwy śnieg
+snowclearinglater,Śnieg później zanikający
+snowdays,Możliwy śnieg
+snowdefinite,Śnieg
+snowdepth,Głębokość pokrywy śnieżnej 
+snowearlyam,Wcześnie rano śnieg
+snowlatepm,Późnym popołudniem śnieg
+snowpm,Popołudniowy śnieg
+solarenergy,Energia słoneczna
+solarradiation,Promieniowanie słoneczne
+stationdistance,Średnia odległość stacji
+stationInfo,Informacje o stacjach
+stormspossible,Możliwe burze
+stormsstrong,Możliwe silne burze
+sunshine,Słonecznie
+temp,Temperatura
+tempprecipweek,%s. %s.
+tempweek,%s.
+today,dzisiaj
+tomorrow,jutro
+type_1,Zawieje lub zamiecie śnieżne
+type_10,Silna marznąca mżawka/marznący deszcz
+type_11,Słaba marznąca mżawka/marznący deszcz
+type_12,Marznąca mgła
+type_13,Silny marznący deszcz
+type_14,Słaby marznący deszcz
+type_15,Lej kondensacyjny/Tornado
+type_16,Przelotne opady gradu
+type_17,Lód
+type_18,Błyskawica bez grzmotu
+type_19,Zamglenie
+type_2,Mżawka
+type_20,Opady w pobliżu
+type_21,Deszcz
+type_22,Silny deszcz i śnieg
+type_23,Słaby deszcz i śnieg
+type_24,Opady deszczu
+type_25,Silny deszcz
+type_26,Słaby deszcz
+type_27,Zachmurzenie malejące
+type_28,Zachmurzenie rosnące
+type_29,Niebo bez zmian
+type_3,Silna mżawka
+type_30,Smog lub zmętnienie
+type_31,Śnieg
+type_32,Opady śniegu i deszczu
+type_33,Opady śniegu
+type_34,Silne opady śniegu
+type_35,Słabe opady śniegu
+type_36,Szkwały
+type_37,Burza z piorunami
+type_38,Burza bez opadów
+type_39,Pył diamentowy
+type_4,Słaba mżawka
+type_40,Grad
+type_41,Pochmurnie
+type_42,Częściowe zachmurzenie
+type_43,Bezchmurnie
+type_5,Silna mżawka/deszcz
+type_6,Słaba mżawka/deszcz
+type_7,Burza pyłowa lub piaskowa
+type_8,Mgła
+type_9,Marznąca mżawka/marznący deszcz
+variablecloud,Częściowo pochmurnie przez cały dzień
+visibility,Widzialność
+warmingup,Ocieplenie
+wdir,Kierunek wiatru
+wdir,Kierunek wiatru
+weatherType,Rodzaj pogody
+wgust,Porywy wiatru
+windchill,Temperatura odczuwalna
+wspd,Prędkość wiatru

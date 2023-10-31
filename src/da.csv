@@ -1,0 +1,128 @@
+id,desc
+sky,Skydække
+wdir,Vindretning
+temp,Temperatur
+dew,Dugpunkt
+humidity,Relativ Luftfugtighed
+heatindex,Hede indeks
+maxt,Maksimum temperatur
+mint,Minimum temperatur
+wspd,Vindhastighed
+wgust,Vindstød
+wdir,Vindretning
+precip,Nedbør
+estprecip,Forventet nedbør
+precipcover,Nedbørsdækning
+visibility,Sigtbarhed
+cloudcover,Skydække
+latlon,Latitude & Longitude
+address,Adresse
+sealevelpressure,Havniveautryk
+stationdistance,Gennemsnitlig stationsafstand
+pop,Mulighed for nedbør (%)
+snow,Sne
+snowdepth,Snedybde
+windchill,Vind chill
+solarradiation,Solstråling
+solarenergy,Solenergi
+sunshine,Solskin
+stationInfo,Bidragende stationer
+weatherType,Vejrtype
+type_1,Blæsende eller drivende sne
+type_2,Støvregn
+type_3,Kraftig støvregn
+type_4,Let støvregn
+type_5,Kraftig støvregn/regn
+type_6,Let støvregn/regn
+type_7,Støv storm
+type_8,Tåge
+type_9,Frysende støvregn/Frysende regn
+type_10,Kraftig frysende støvregn/Frysende regn
+type_11,Let frysende støvregn/Frysende regn
+type_12,Frysende tåge
+type_13,Kraftig frysende regn
+type_14,Let frysende regn
+type_15,Tragtsky/Tornado
+type_16,Haglbyger
+type_17,Is
+type_18,Lyn uden torden
+type_19,Tåge
+type_20,Nedbør i nærheden
+type_21,Regn
+type_22,Kraftig regn og sne
+type_23,Let regn og sne
+type_24,Regnbyger
+type_25,Kraftig regn og sne
+type_26,Let regn og sne
+type_27,Skydække aftager
+type_28,Skydække tiltager
+type_29,Skydække uændret
+type_30,Røg eller dis
+type_31,Sne
+type_32,Sne og regnbyger
+type_33,Snebyger
+type_34,Kraftig snefald
+type_35,Let snefald
+type_36,Byger
+type_37,Tordenvejr
+type_38,Tordenvejr uden regn
+type_39,Diamant støv
+type_40,Hagl
+type_41,Overskyet
+type_42,Delvis skyet
+type_43,Klart vejr
+warmingup,varmer op
+coolingdown,nedkøler
+similartemp,tilsvarende temperaturer fortsætter
+raindays,en mulighed for regn
+snowdays,en mulighed for sne
+norain,ingen regn forventet
+mostdays,flere dage
+rainallday,en mulighed for regn i løbet af dagen
+rainclearinglater,regnen ophører senere
+rainpm,regn i eftermiddag
+rainam,regn om morgenen
+rainearlyam,regn tidlig morgen
+rainlatepm,regn sen eftermiddag
+rainampm,regn om morgenen og om eftermiddagen
+rainchance,en mulighed for regn
+raindefinite,regn
+snowallday,en mulighed for sne i løbet af dagen
+snowclearinglater,snefald ophører senere
+snowpm,sne i eftermiddag
+snowam,sne om morgenen
+snowearlyam,sne tidlig morgen
+snowlatepm,sne sen eftermiddag
+snowampm,sne om morgenen og om eftermiddagen
+snowchance,en mulighed for sne
+snowdefinite,sne
+rainsnowallday,en mulighed for regn eller sne i løbet af eftermiddagen
+rainsnowclearinglater,regn og sne ophører senere
+rainsnowpm,regn eller om eftermiddagen
+rainsnowam,regn eller sne om morgenen
+rainsnowearlyam,regn eller sne tidlig morgen
+rainsnowlatepm,regn eller sne sen eftermiddag
+rainsnowampm,regn eller sne om morgenen og eftermiddagen
+rainsnowchance,en mulighed for regn eller sne
+rainsnowdefinite,regn eller sne
+clear,Klart vejr hele dagen
+overcast,Overskyet hele dagen
+cloudierpm,bliver skyet i eftermiddag
+clearingpm,klarer op i eftermiddag
+variablecloud,delvis skyet hele dagen
+stormsstrong,mulighed for stærk storm
+stormspossible,mulighed for storm
+skytempprecip,%s og %s med %s.
+skyprecip,%s med %s.
+sky,%s.
+tempprecipweek,%s med %s.
+tempweek,%s.
+dow1,Mandag
+dow2,Tirsdag
+dow3,Onsdag
+dow4,Torsdag
+dow5,Fredag
+dow6,Lørdag
+dow7,Søndag
+today,i dag
+tomorrow,i morgen

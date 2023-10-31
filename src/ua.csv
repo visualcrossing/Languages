@@ -1,0 +1,128 @@
+id,desc
+sky,Хмарно
+wdir,Напрям вітру
+temp,Температура
+dew,Точка роси
+humidity,Відносна вологість
+heatindex,Індекс тепла
+maxt,Максимальна температура
+mint,Мінімальна температура
+wspd,Швидкість вітру
+wgust,Порив вітру
+wdir,Напрям вітру
+precip,Опади
+estprecip,Орієнтовна кількість опадів
+precipcover,Опади
+visibility,Видимість
+cloudcover,Хмарність
+latlon,Широта та довгота
+address,Адреса
+sealevelpressure,Тиск на рівні моря
+stationdistance,Середня відстань до станції
+pop,Ймовірність опадів (%)
+snow,Сніг
+snowdepth,Глибина снігу
+windchill,Холодний вітер
+solarradiation,Сонячна радіація
+solarenergy,Сонячна енергія
+sunshine,Сонячно
+stationInfo,"Станції, які роблять внесок"
+weatherType,Тип погоди
+type_1,Дуючий або дрейфуючий сніг
+type_2,Дощик
+type_3,Сильний дощ
+type_4,Дрібний дощ
+type_5,Сильний дрібний дощ
+type_6,Мряка чи дощ
+type_7,Пилова буря
+type_8,Туман
+type_9,Крижаний дощ
+type_10,Сильний крижаний дощ
+type_11,Легкий крижаний дощ
+type_12,Крижаний туман
+type_13,Сильний крижаний дощ
+type_14,Легкий крижаний дощ
+type_15,Воронкова хмара/торнадо
+type_16,Зливи
+type_17,Лід
+type_18,Блискавка без грому
+type_19,Мгла
+type_20,Опади в околицях
+type_21,Дощ
+type_22,Сильний дощ і сніг
+type_23,Легкий дощ і сніг
+type_24,Рясний дощ
+type_25,Сильний дощ
+type_26,Легкий дощ 
+type_27,Хмарність зменшується
+type_28,Хмарність збільшується
+type_29,Небо без змін
+type_30,Дим
+type_31,Сніг
+type_32,Сніг і дощ
+type_33,Сніг з дощем
+type_34,Снігопад
+type_35,Невеликий сніг
+type_36,Шквал
+type_37,Гроза
+type_38,Гроза без опадів
+type_39,Сліпий дощ
+type_40,Град
+type_41,Похмуро
+type_42,Мінлива хмарність
+type_43,Ясно
+warmingup,потепління
+coolingdown,похолодання
+similartemp,однакова температура
+raindays,можливий дощ
+snowdays,можливий сніг
+norain,без опадів
+mostdays,кілька днів
+rainallday,можливий дощ протягом дня
+rainclearinglater,дощ з подальшим проясненням
+rainpm,дощ після обіду
+rainam,дощ зранку
+rainearlyam,дощ з самого ранку
+rainlatepm,можливий дощ увечері
+rainampm,дощ вранці та ввечері
+rainchance,можливий дощ
+raindefinite,дощ
+snowallday,можливий сніг протягом дня
+snowclearinglater,сніг з подальшим проясненням
+snowpm,сніг після обіду
+snowam,сніг зранку
+snowearlyam,сніг з самого ранку
+snowlatepm,можливий сніг увечері
+snowampm,сніг зранку та ввечері
+snowchance,можливий сніг
+snowdefinite,сніг
+rainsnowallday,можливий дощ або сніг протягом дня
+rainsnowclearinglater,дощ або сніг з подальшим проясненням
+rainsnowpm,дощ або сніг після обіду
+rainsnowam,дощ або сніг зранку
+rainsnowearlyam,дощ або сніг з самого ранку
+rainsnowlatepm,пізній дощ чи сніг
+rainsnowampm,можливий дощ чи сніг увечері
+rainsnowchance,можливий дощ або сніг
+rainsnowdefinite,дощ або сніг
+clear,ясно протягом всього дня
+overcast,хмарно протягом всього дня
+cloudierpm,хмарно в другій половині дня
+clearingpm,прояснення після обіду
+variablecloud,частково хмарно протягом дня
+stormsstrong,можливий сильний шторм
+stormspossible,можливий шторм
+skytempprecip,%s та %s з %s.
+skyprecip,%s з %s.
+sky,%s.
+tempprecipweek,%s з %s.
+tempweek,%s.
+dow1,Понеділок
+dow2,Вівторок
+dow3,Середа
+dow4,Четвер
+dow5,П'ятниця
+dow6,Субота
+dow7,Неділя
+today,сьогодні
+tomorrow,завтра

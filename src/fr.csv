@@ -1,0 +1,128 @@
+id,desc
+sky,Couverture nuageuse
+wdir,Direction du vent
+temp,Température
+dew,Point de rosée
+humidity,Humidité relative
+heatindex,Indice de chaleur
+maxt,Température maximale
+mint,Température minimale
+wspd,Vitesse du vent
+wgust,Rafale de vent
+wdir,Direction du vent
+precip,Précipitations
+estprecip,Précipitations estimées
+precipcover,Couverture de précipitations
+visibility,Visibilité
+cloudcover,Couverture nuageuse
+latlon,Latitude Longitude
+address,Adresse
+sealevelpressure,Pression au niveau de la mer
+stationdistance,Distance moyenne de la station
+pop,Probabilité de précipitations (%)
+snow,Neige
+snowdepth,Profondeur de neige
+windchill,Refroidissement éolien
+solarradiation,Radiation solaire
+solarenergy,Énergie solaire
+sunshine,Ensoleillement
+stationInfo,Stations météo contributrices
+weatherType,Type de temps
+type_1,Poudrerie ou chasse-neige
+type_2,Bruine
+type_3,Bruine lourde
+type_4,Bruine légère
+type_5,Bruine / pluie forte
+type_6,Bruine / pluie légère
+type_7,Tempête de sable et de poussière
+type_8,Brouillard
+type_9,Bruine verglaçante / Pluie verglaçante
+type_10,Forte bruine verglaçante / pluie verglaçante
+type_11,Légère bruine verglaçante / pluie verglaçante
+type_12,Brouillard verglaçant
+type_13,Forte pluie verglaçante
+type_14,Légère pluie verglaçante
+type_15,Entonnoir nuageux / Tornade
+type_16,Averses de grêle
+type_17,Verglas
+type_18,Foudre sans tonnerre
+type_19,Brouillard
+type_20,Précipitations à proximité
+type_21,Pluie
+type_22,Pluie et neige fortes
+type_23,Pluie et neige légères
+type_24,Averses de pluie
+type_25,Forte pluie
+type_26,Pluie légère
+type_27,Dissipation de la couverture nuageuse
+type_28,Augmentation de la couverture nuageuse
+type_29,Ciel inchangé
+type_30,Fumée ou brume
+type_31,Neige
+type_32,Averses de neige et de pluie
+type_33,Averses de neige
+type_34,Neige abondante
+type_35,Neige légère
+type_36,Bourrasques
+type_37,Orage
+type_38,Orage sans précipitations
+type_39,Poudrin de glace
+type_40,Grêle
+type_41,Couvert
+type_42,Partiellement nuageux
+type_43,Dégagé
+warmingup,réchauffement
+coolingdown,retour au calme
+similartemp,maintien de températures similaires
+raindays,probabilité de pluie
+snowdays,probabilité de neige
+norain,aucune pluie prévue
+mostdays,plusieurs jours
+rainallday,risque de pluie toute la journée
+rainclearinglater,pluie cessant plus tard
+rainpm,pluie dans l'après-midi
+rainam,pluie en matinée
+rainearlyam,pluie tôt le matin
+rainlatepm,pluie en fin d'après-midi
+rainampm,pluie le matin et l'après-midi
+rainchance,probabilité de pluie
+raindefinite,pluie
+snowallday,probabilité de neige toute la journée
+snowclearinglater,neige diminuant plus tard
+snowpm,neige dans l'après-midi
+snowam,neige le matin
+snowearlyam,neige tôt le matin
+snowlatepm,neige en fin d'après-midi
+snowampm,neige le matin et l'après-midi
+snowchance,probabilité de neige
+snowdefinite,neige
+rainsnowallday,risque de pluie ou de neige tout au long de la journée
+rainsnowclearinglater,pluie ou neige diminuant plus tard
+rainsnowpm,pluie ou neige l'après-midi
+rainsnowam,pluie ou neige le matin
+rainsnowearlyam,neige tôt le matin
+rainsnowlatepm,pluie ou neige en fin d'après-midi
+rainsnowampm,pluie ou neige le matin et l'après-midi
+rainsnowchance,risque de pluie ou de neige
+rainsnowdefinite,pluie ou neige
+clear,ciel dégagé tout au long de la journée
+overcast,ciel nuageux
+cloudierpm,ciel couvert dans l'après-midi
+clearingpm,ciel dégagé dans l'après-midi
+variablecloud,partiellement nuageux
+stormsstrong,possibilité de fortes tempêtes
+stormspossible,tempêtes possibles
+skytempprecip,%s et %s avec %s.
+skyprecip,%s avec %s.
+sky,%s.
+tempprecipweek,%s avec %s.
+tempweek,%s.
+dow1,lundi
+dow2,mardi
+dow3,mercredi
+dow4,jeudi
+dow5,vendredi
+dow6,samedi
+dow7,dimanche
+today,aujourd'hui
+tomorrow,demain

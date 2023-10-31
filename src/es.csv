@@ -1,0 +1,128 @@
+id,desc
+sky,Cubierta del cielo
+wdir,Dirección del viento
+temp,Temperatura
+dew,Punto de rocío
+humidity,Humedad relativa
+heatindex,Índice de calor
+maxt,Temperatura máxima
+mint,Temperatura mínima
+wspd,Velocidad del viento
+wgust,Ráfaga de viento
+wdir,Dirección del viento
+precip,Precipitación
+estprecip,Precipitación estimada
+precipcover,Cubierta de precipitación
+visibility,Visibilidad
+cloudcover,Cubierto de nubes
+latlon,Latitud longitud
+address,Habla a
+sealevelpressure,Presión a nivel del mar
+stationdistance,Distancia media de la estación
+pop,Probabilidad de precipitación (%)
+snow,Nieve
+snowdepth,Espesor de la nieve
+windchill,Escalofríos
+solarradiation,Radiación solar
+solarenergy,Energía solar
+sunshine,Brillo Solar
+stationInfo,Estaciones contribuyentes
+weatherType,Tipo de clima
+type_1,Nieve que sopla o a la deriva
+type_2,Llovizna
+type_3,Llovizna fuerte
+type_4,Llovizna ligera
+type_5,Fuerte llovizna / lluvia
+type_6,Llovizna ligera / Lluvia
+type_7,Tormenta de arena
+type_8,Niebla
+type_9,Llovizna helada / Lluvia helada
+type_10,Fuerte llovizna helada / lluvia helada
+type_11,Llovizna helada ligera / lluvia helada
+type_12,Niebla helada
+type_13,Lluvia helada intensa
+type_14,Lluvia helada ligera
+type_15,Nube de embudo / Tornado
+type_16,Lluvia de granizo
+type_17,Hielo
+type_18,Tormenta eléctrica
+type_19,Niebla
+type_20,Precipitación en las proximidades
+type_21,Lluvia
+type_22,Fuertes lluvias y nieve
+type_23,Lluvia ligera y nieve
+type_24,Lluvias
+type_25,Lluvia Pesada
+type_26,Lluvia ligera
+type_27,Disminución de la cobertura del cielo
+type_28,Aumento de la cobertura del cielo
+type_29,Cielo sin cambios
+type_30,Humo o neblina
+type_31,Nieve
+type_32,Lluvias y nieve
+type_33,Duchas de nieve
+type_34,Fuertes nevadas
+type_35,Nieve ligera
+type_36,Chubascos
+type_37,Tormenta
+type_38,Tormenta sin precipitaciones
+type_39,Polvo de diamante
+type_40,Granizo
+type_41,Nublado
+type_42,Parcialmente nublado
+type_43,Claro
+warmingup,calentando
+coolingdown,enfriándose
+similartemp,continúan temperaturas similares 
+raindays,posibilidad de lluvia en
+snowdays,posibilidad de nieve en
+norain,no se espera lluvia
+mostdays,varios días
+rainallday,posibilidad de lluvia durante todo el día
+rainclearinglater,lluvia aclarando más tarde
+rainpm,lluvia por la tarde
+rainam,lluvia por la mañana
+rainearlyam,lluvia temprano en la mañana
+rainlatepm,lluvia al final de la tarde
+rainampm,lluvia por la mañana y por la tarde
+rainchance,posibilidad de lluvia
+raindefinite,lluvia
+snowallday,posibilidad de nieve durante todo el día
+snowclearinglater,limpieza de nieve más tarde
+snowpm,nieve por la tarde
+snowam,nieve por la mañana
+snowearlyam,nieve temprano en la mañana
+snowlatepm,nieve al final de la tarde
+snowampm,nieve por la mañana y por la tarde
+snowchance,posibilidad de nieve
+snowdefinite,nieve
+rainsnowallday,posibilidad de lluvia o nieve durante el día
+rainsnowclearinglater,lluvia o nieve aclarando más tarde
+rainsnowpm,tarde lluvia o nieve
+rainsnowam,mañana lluvia o nieve
+rainsnowearlyam,nieve temprano en la mañana
+rainsnowlatepm,lluvia o nieve al final de la tarde
+rainsnowampm,lluvia o nieve por la mañana y por la tarde
+rainsnowchance,posibilidad de lluvia o nieve
+rainsnowdefinite,lluvia o nieve
+clear,condiciones claras
+overcast,cielo cubierto
+cloudierpm,volviéndose nublado por la tarde
+clearingpm,aclarando por la tarde
+variablecloud,parcialmente nublado
+stormsstrong,posibles tormentas fuertes
+stormspossible,tormentas posibles
+skytempprecip,%s y %s con %s.
+skyprecip,%s con %s.
+sky,%s.
+tempprecipweek,%s con %s.
+tempweek,%s.
+dow1,lunes
+dow2,martes
+dow3,miércoles
+dow4,jueves
+dow5,viernes
+dow6,sábado
+dow7,domingo
+today,hoy
+tomorrow,mañana

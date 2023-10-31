@@ -1,0 +1,128 @@
+id,desc
+sky,하늘 표지
+wdir,바람의 방향
+temp,온도
+dew,이슬점
+humidity,상대 습도
+heatindex,열 지수
+maxt,최대 온도
+mint,최소 온도
+wspd,풍속
+wgust,바람 돌풍
+wdir,바람의 방향
+precip,강수량
+estprecip,추정 강수량
+precipcover,강수량 커버
+visibility,가시성 
+cloudcover,구름 커버
+latlon,위도와 경도
+address,주소
+sealevelpressure,해수면 압력
+stationdistance,평균 기상 관측소 거리
+pop,강수 확률 (%)
+snow,스노
+snowdepth,눈 깊이
+windchill,풍속 냉각 지수
+solarradiation,태양 방사선
+solarenergy,태양 에너지
+sunshine,햇빛
+stationInfo,기여 기상 관측소
+weatherType,날씨 유형
+type_1,날리는 눈 또는 표류하는 눈
+type_2,이슬비
+type_3,강한 이슬비
+type_4,가벼운 이슬비
+type_5,무거운 이슬비 / 비
+type_6,가벼운 이슬비 / 비
+type_7,먼지폭풍
+type_8,안개
+type_9,꽁꽁 언 이슬비 / 꽁꽁 언 비
+type_10,심하게 얼어붙은 이슬비 / 얼어붙은 비
+type_11,살짝 얼어붙은 이슬비 / 얼어붙은 비
+type_12,얼어 붙는 안개
+type_13,무거운 동결 비
+type_14,살짝 얼어붙은 비
+type_15,깔때기 구름 / 토네이도
+type_16,우박 샤워
+type_17,얼음
+type_18,천둥없이 번개
+type_19,안개
+type_20,부근의 강수량
+type_21,비
+type_22,폭우와 눈
+type_23,빛 비와 눈
+type_24,비 샤워
+type_25,폭우
+type_26,가벼운 비
+type_27,스카이 커버리지 줄이기
+type_28,스카이 커버리지 증가
+type_29,하늘이 변하지 않았습니다
+type_30,연기 또는 연무
+type_31,눈이
+type_32,눈과 비 샤워
+type_33,스노우 샤워
+type_34,폭설
+type_35,소량의 눈
+type_36,snowstorm
+type_37,눈보라
+type_38,강수제가없는 뇌우
+type_39,다이아몬드 먼지
+type_40,빗발
+type_41,흐린
+type_42,부분적으로 흐린
+type_43,맑은 조건
+warmingup,따뜻하게 함
+coolingdown,냉각
+similartemp,유사한 온도가 계속됩니다
+raindays,비가 올 기회
+snowdays,눈이 올 기회
+norain,비가 예상되지 않음
+mostdays,여러 일
+rainallday,하루 종일 비가 올 기회
+rainclearinglater,비는 나중에 그친다
+rainpm,오후의 비
+rainam,아침 비
+rainearlyam,이른 아침 비
+rainlatepm,늦은 오후의 비
+rainampm,아침과 오후에 비가 내린다
+rainchance,비가 올 기회
+raindefinite,비
+snowallday,하루 동안 눈이 내리는 기회
+snowclearinglater,눈은 나중에 멈출 것입니다
+snowpm,오후 눈
+snowam,아침 눈
+snowearlyam,이른 아침 눈
+snowlatepm,늦은 오후 눈
+snowampm,아침과 오후에 눈이 눈이 있습니다
+snowchance,눈의 기회
+snowdefinite,눈
+rainsnowallday,하루 동안 비 또는 눈의 기회
+rainsnowclearinglater,비나 눈은 나중에 그칠 것입니다
+rainsnowpm,오후의 비 또는 눈
+rainsnowam,아침 비 또는 눈
+rainsnowearlyam,이른 아침 눈이나 비
+rainsnowlatepm,늦은 오후의 비 또는 눈
+rainsnowampm,아침이나 오후에 비 또는 눈이 있습니다
+rainsnowchance,비 또는 눈의 기회
+rainsnowdefinite,비 또는 눈
+clear,하루 종일 화창한
+overcast,하루 종일 흐린 하늘
+cloudierpm,오후에 흐려지고있다
+clearingpm,오후에 화창한 날씨
+variablecloud,하루 동안 부분적으로 흐려짐
+stormsstrong,강한 폭풍이 가능합니다
+stormspossible,폭풍이 가능합니다
+skytempprecip,%s 및 %s 및 %s.
+skyprecip,%s 및 %s.
+sky,%s.
+tempprecipweek,%s 및 %s.
+tempweek,%s.
+dow1,월요일
+dow2,화요일
+dow3,수요일
+dow4,목요일
+dow5,금요일
+dow6,토요일
+dow7,일요일
+today,오늘
+tomorrow,내일

@@ -1,0 +1,128 @@
+id,desc
+sky,Taivaan peitto
+wdir,Tuulen suunta
+temp,Lämpötila
+dew,Kastepiste
+humidity,Suhteellinen kosteus
+heatindex,Lämpöindeksi
+maxt,Korkein lämpötila
+mint,Matalin lämpötila
+wspd,Tuulen nopeus
+wgust,Tuulenpuuska
+wdir,Tuulen suunta
+precip,Sademäärä
+estprecip,Arvioitu sademäärä
+precipcover,Sademäärän peitto
+visibility,Näkyvyys
+cloudcover,Pilvipeitto
+latlon,Leveys- ja pituuspiiri
+address,Osoite
+sealevelpressure,Merenpintapaine
+stationdistance,Keskimääräinen sääaseman etäisyys
+pop,Sateen todennäköisyys (%)
+snow,Lumi
+snowdepth,Lumen syvyys
+windchill,Tuulen viilentävä vaikutus
+solarradiation,Auringonsäteily
+solarenergy,Aurinkoenergia
+sunshine,Auringonpaiste
+stationInfo,Osallistavat asemat
+weatherType,Säätyyppi
+type_1,Puhaltuva tai ajautuva lumi
+type_2,Tihkusadetta
+type_3,Rankkaa tihkusadetta
+type_4,Kevyttä tihkusadetta
+type_5,Rankkaa tihkusadetta/sadetta
+type_6,Kevyttä tihkusadetta/sadetta
+type_7,Pölymyrskyä
+type_8,Sumua
+type_9,Jäätävää tihkusadetta/sadetta
+type_10,Rankkaa jäätävää tihkusadetta/sadetta
+type_11,Kevyttä jäätävää tihkusadetta/sadetta
+type_12,Jäätävää sumua
+type_13,Rankkaa jäädyttävää sadetta
+type_14,Kevyttä jäädyttävää sadetta
+type_15,Suppilopilvi / tornado
+type_16,Raekuuroja
+type_17,Jäätä
+type_18,Salamointia ilman ukkosta
+type_19,Sumua
+type_20,Sadetta lähistöllä
+type_21,Sadetta
+type_22,Rankkaa sadetta ja lunta
+type_23,Kevyttä sadetta ja lunta
+type_24,Sadekuuroja
+type_25,Rankkasadetta
+type_26,Kevyttä sadetta
+type_27,Taivaan peitto vähenee
+type_28,Taivaan peitto kasvaa
+type_29,Taivas muuttumattomana
+type_30,Savua tai sumua
+type_31,Lunta
+type_32,Lumi- ja sadekuuroja
+type_33,Lumikuuroja
+type_34,Raskasta lumisadetta
+type_35,Kevyttä lumisadetta
+type_36,Tuulen puuskia
+type_37,Ukkosta
+type_38,Ukkosta ilman sadeta
+type_39,Timanttipölyä
+type_40,Rakeita
+type_41,Pilvistä
+type_42,Osittain pilvistä
+type_43,Selkeää
+warmingup,lämpenee
+coolingdown,jäähtyy
+similartemp,Samat lämpötilat jatkuvat
+raindays,sateen mahdollisuus
+snowdays,lumisateen mahdollisuus
+norain,ei sadetta odotettavissa
+mostdays,useita päiviä
+rainallday,sateen mahdollisuus koko päivän ajan
+rainclearinglater,sade lakkaa myöhemmin
+rainpm,iltapäivällä sadetta
+rainam,aamulla sadetta
+rainearlyam,varhain aamulla sadetta
+rainlatepm,myöhään iltapäivällä sadetta
+rainampm,sadetta aamulla ja iltapäivällä
+rainchance,sateen mahdollisuus
+raindefinite,sadetta
+snowallday,mahdollisuus lumisateeseen koko päivän
+snowclearinglater,lumisade lakkaa myöhemmin
+snowpm,iltapäivällä lumisadetta
+snowam,aamupäivällä lumisadetta
+snowearlyam,varhain aamulla lumisadetta
+snowlatepm,myöhään iltapäivällä lumisadetta
+snowampm,lumisadetta aamulla ja iltapäivällä
+snowchance,mahdollisuus lumisateeseen
+snowdefinite,lumisadetta
+rainsnowallday,sateen tai lumisateen mahdollisuus koko päivän
+rainsnowclearinglater,sade tai lumisade lakkaa myöhemmin
+rainsnowpm,iltapäivällä sadetta tai lumisadetta
+rainsnowam,aamulla sadetta tai lumisadetta
+rainsnowearlyam,varhain aamulla lumisadetta tai sadetta
+rainsnowlatepm,myöhään iltapäivällä sadetta tai lumisadetta
+rainsnowampm,sadetta tai lumisadetta aamulla ja iltapäivällä
+rainsnowchance,sateen tai lumisateen mahdollisuus
+rainsnowdefinite,sadetta tai lumisadetta
+clear,selkeät olosuhteet koko päivän
+overcast,pilvistä koko päivän
+cloudierpm,tulee pilvistä iltapäivällä
+clearingpm,kirkastuu Iltapäivällä
+variablecloud,puolipilvistä koko päivän
+stormsstrong,voimakkaat myrskyt mahdollisia
+stormspossible,myrskyt mahdolliset
+skytempprecip,%s ja %s ja %s.
+skyprecip,%s ja %s.
+sky,%s.
+tempprecipweek,%s ja %s.
+tempweek,%s.
+dow1,maanantaina
+dow2,tiistaina
+dow3,keskiviikkona
+dow4,torstaina
+dow5,perjantaina
+dow6,lauantaina
+dow7,sunnuntaina
+today,tänään
+tomorrow,huomenna

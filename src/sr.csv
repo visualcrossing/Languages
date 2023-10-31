@@ -1,0 +1,128 @@
+id,desc
+sky,Oblačnost
+wdir,Smer vetra
+temp,Temperatura
+dew,Tačka rose
+humidity,Relativna vlažnost
+heatindex,Toplotni indeks
+maxt,Maksimalna temperatura
+mint,Minimalna temperatura
+wspd,Brzina vetra
+wgust,Udari vetra
+wdir,Smer vetra
+precip,Padavine
+estprecip,Procenjene padavine
+precipcover,Pokrivenost područja padavina
+visibility,Vidljivost
+cloudcover,Oblačnost
+latlon,Gegrafska širina i dužina
+address,Adresa
+sealevelpressure,Pritisak na nivou mora
+stationdistance,Srednja udaljenost stanice
+pop,Moguće padavine (%)
+snow,Sneg
+snowdepth,Dubina snega
+windchill,Hladnoća vetra
+solarradiation,Sunčevo zračenje
+solarenergy,Energija sunca
+sunshine,Sunčeva svetlost
+stationInfo,Stanice koje učestvuju
+weatherType,Tip vremena
+type_1,Sneg koji duva ili se nanosi
+type_2,Rominjanje kiše
+type_3,Jaka kiša
+type_4,Slaba Kiša
+type_5,Jaka kiša/kiša
+type_6,Rominjanje/kiša
+type_7,Peščana oluja
+type_8,Magla
+type_9,Smrznuta kiša/ledena kiša
+type_10,Jaka ledena kiša/smrznuta kiša
+type_11,Slaba ledena kiša/smrznuta kiša
+type_12,Zaleđena magla
+type_13,Jaka ledena kiša/smrznuta kiša
+type_14,Slaba ledena kiša/smrznuta kiša
+type_15,Tornado
+type_16,Pljuskovi sa gradom
+type_17,Led
+type_18,Munje bez grmljavine
+type_19,Izmaglica
+type_20,Padavine u okolini
+type_21,Kiša 
+type_22,Jaka kiša i sneg
+type_23,Slaba kiša i sneg
+type_24,Pljuskovi
+type_25,Jaka kiša
+type_26,Slaba kiša
+type_27,Oblačnost se smanjuje
+type_28,Oblačnost se povećava
+type_29,Nepromenjena oblačnost
+type_30,Dim ili izmaglica
+type_31,Sneg
+type_32,KIša i sneg
+type_33,Sneg i pljuskovi
+type_34,Snežna mećava
+type_35,Lagani sneg
+type_36,Iznenadna lokalizovana oluja
+type_37,Oluja sa grmljavinom
+type_38,Grmljavina bez padavina
+type_39,Ledena prašina
+type_40,Grad
+type_41,Oblačno
+type_42,Mestimično oblačno
+type_43,Čisto
+warmingup,zagrevanje
+coolingdown,zahlađenje
+similartemp,Nastavlja se slična temperatura
+raindays,Moguća kiša
+snowdays,Mogući sneg
+norain,ne očekuje se kiša
+mostdays,više dana
+rainallday,moguća kiša tokom dana
+rainclearinglater,kasnije razvedravanje
+rainpm,popodnevna kiša
+rainam,jutarnja kiša
+rainearlyam,kiša u rano jutro
+rainlatepm,kiša kasno posle podne
+rainampm,kiša ujutru i popodne
+rainchance,moguća kiša
+raindefinite,kiša
+snowallday,mogućnost snega tokom dana
+snowclearinglater,prestanak snega kasnije
+snowpm,popodnevni sneg
+snowam,jutarnji sneg
+snowearlyam,sneg rano ujutro
+snowlatepm,sneg kasno posle podne
+snowampm,sneg ujutru i popodne
+snowchance,moguć sneg
+snowdefinite,sneg
+rainsnowallday,moguća kiša ili sneg tokom dana
+rainsnowclearinglater,prestanak snega ili kiše kasnije
+rainsnowpm,popodnevna kiša ili sneg
+rainsnowam,jutarnja kiša ili sneg
+rainsnowearlyam,kiša ili sneg rano ujutru
+rainsnowlatepm,sneg ili kiša kasno posle podne
+rainsnowampm,kiša ili sneg ujutru i popodne
+rainsnowchance,moguća kiša ili sneg tokom dana
+rainsnowdefinite,kiša ili sneg
+clear,čisto tokom celog dana
+overcast,oblačno nebo tokom dana
+cloudierpm,naoblačenje posle podneva
+clearingpm,razvedravanje posle podneva
+variablecloud,umereno oblačno tokom dana
+stormsstrong,moguće jake oluje
+stormspossible,moguće oluje
+skytempprecip,%s i %s sa %s.
+skyprecip,%s sa %s.
+sky,%s.
+tempprecipweek,%s sa %s.
+tempweek,%s.
+dow1,Ponedeljak
+dow2,Utorak
+dow3,Sreda
+dow4,Četvrtak
+dow5,Petak
+dow6,Subota
+dow7,Nedelja
+today,danas
+tomorrow,sutra

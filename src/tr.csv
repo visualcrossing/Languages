@@ -1,0 +1,128 @@
+id,desc
+sky,Gökyüzü örtüsü
+wdir,Rüzgar yönü
+temp,Sıcaklık
+dew,Çiy Noktası
+humidity,Bağıl Nem
+heatindex,Isı Endeksi
+maxt,Maksimum Sıcaklık
+mint,Minimum Sıcaklık
+wspd,Rüzgar Hızı
+wgust,Rüzgar Şiddeti
+wdir,Rüzgar Yönü
+precip,Yağış
+estprecip,Tahmini yağış
+precipcover,Yağış Örtüsü
+visibility,Görünürlük
+cloudcover,Bulut Örtüsü
+latlon,Enlem & Boylam
+address,Adres
+sealevelpressure,Deniz Seviyesi Basıncı
+stationdistance,Ortalama İstasyon Mesafesi
+pop,Yağış Olasılığı (%)
+snow,Kar
+snowdepth,Kar Derinliği
+windchill,Rüzgar Soğutması
+solarradiation,Güneş Işınımı
+solarenergy,Güneş Enerjisi
+sunshine,Günel Işığı
+stationInfo,Katkıda Bulunan İstasyonlar
+weatherType,Hava Tipi
+type_1,Kar Üfleme veya Sürüklenen Kar
+type_2,Çiseleme
+type_3,Şiddetli Çiseleme
+type_4,Hafif Çiseleme
+type_5,Şiddetli Çiseleme/Yağmur
+type_6,Hafif Çiseleme/Yağmur
+type_7,Toz Fırtınası
+type_8,Sis
+type_9,Dondurucu Çiseleme/Dondurucu Yağmur
+type_10,Yoğun Dondurucu Çiseleme/Dondurucu Yağmur
+type_11,Hafif Dondurucu Çiseleme/Dondurucu Yağmur
+type_12,Dondurucu Sis
+type_13,Şiddetli Dondurucu Yağmur
+type_14,Hafif Dondurucu Yağmur
+type_15,Huni Bulutu/Kasırga
+type_16,Dolu Yağmurları
+type_17,Buz
+type_18,Yıldırımsız Yıldırım
+type_19,Sis
+type_20,Çevrede Yağış
+type_21,Yağmur
+type_22,Şiddetli Yağmur ve Kar
+type_23,Hafif Yağmur Ve Kar
+type_24,Sağanak yağmur
+type_25,Yoğun Yağış
+type_26,Hafif Yağış
+type_27,Gökyüzü Kapsamı Azalan
+type_28,Gökyüzü Kapsamı Artan
+type_29,Gökyüzü Değişmedi
+type_30,Duman veya Pus
+type_31,Kar
+type_32,Kar Ve Yağmur Sağanakları
+type_33,Kar Sağanakları
+type_34,Yoğun Kar
+type_35,Hafif Kar
+type_36,Fırtınalar
+type_37,Fırtına
+type_38,Yağışsız Fırtına
+type_39,Elmas Tozu
+type_40,Dolu
+type_41,Bulutlu
+type_42,Parçalı Bulutlu
+type_43,Açık
+warmingup,ısınıyor
+coolingdown,soğuyor
+similartemp,benzer sıcaklıklar devam ediyor
+raindays,yağmur ihtimali
+snowdays,kar ihtimali
+norain,yağmur beklenmiyor
+mostdays,birçok gün
+rainallday,gün boyunca yağmur ihtimali
+rainclearinglater,yağmur sonrası açılma
+rainpm,öğleden sonra yağmur
+rainam,sabah yağmuru
+rainearlyam,sabah erken yağmur
+rainlatepm,öğleden sonra yağmur
+rainampm,sabah ve öğleden sonra yağmur
+rainchance,yağmur ihtimali
+raindefinite,yağmur
+snowallday,gün boyunca kar ihtimali
+snowclearinglater,kar temizliği sonrası
+snowpm,öğleden sonra karı
+snowam,sabah karı
+snowearlyam,sabah erken kar
+snowlatepm,öğleden sonra kar
+snowampm,sabah ve öğleden sonra kar
+snowchance,kar ihtimali
+snowdefinite,kar
+rainsnowallday,gün boyunca yağmur veya kar ihtimali
+rainsnowclearinglater,yağmur veya kar temizliği
+rainsnowpm,öğleden sonra yağmur veya kar
+rainsnowam,sabah yağmuru veya karı
+rainsnowearlyam,sabah erken kar veya yağmur
+rainsnowlatepm,öğleden sonra yağmur veya kar
+rainsnowampm,sabah ve öğleden sonra yağmur veya kar
+rainsnowchance,yağmur veya kar ihtimali
+rainsnowdefinite,yağmur veya kar
+clear,gün boyunca açık
+overcast,gün boyunca bulutlu gökyüzü
+cloudierpm,öğleden sonra bulutlu
+clearingpm,öğleden sonra açık
+variablecloud,gün boyunca parçalı bulutlu
+stormsstrong,güçlü fırtına olabilir
+stormspossible,fırtına olabilir
+skytempprecip,%s ile %s ve %s.
+skyprecip,%s ile %s.
+sky,%s.
+tempprecipweek,%s ile %s.
+tempweek,%s.
+dow1,Pazartesi
+dow2,Salı
+dow3,Çarşamba
+dow4,Perşembe
+dow5,Cuma
+dow6,Cumartesi
+dow7,Pazartesi
+today,bugün
+tomorrow,yarın

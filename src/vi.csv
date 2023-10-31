@@ -71,7 +71,7 @@ type_40,type_40
 type_41,type_41
 type_42,type_42
 type_43,type_43
-warmingup,warmingup
+ارتفاع على درجات الحرارة,ارتفاع على درجات الحرارة
 coolingdown,coolingdown
 similartemp,similartemp
 raindays,raindays
@@ -111,7 +111,7 @@ cloudierpm,cloudierpm
 clearingpm,clearingpm
 variablecloud,variablecloud
 stormsstrong,stormsstrong
-stormspossible,stormspossible
+stormspossible,storms possible
 skytempprecip,%s and %s with %s.
 skyprecip,%s with %s.
 sky,%s.

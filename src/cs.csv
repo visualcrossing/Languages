@@ -1,0 +1,128 @@
+id,desc
+sky,Kryt oblohy
+wdir,Směr větru
+temp,Teplota
+dew,Rosný bod
+humidity,Relativní vlhkost
+heatindex,Teplotní index
+maxt,Maximální teplota
+mint,Minimální teplota
+wspd,Rychlost větru
+wgust,Poryv větru
+wdir,Směr větru
+precip,Srážky
+estprecip,Odhadovaný úhrn srážek
+precipcover,Srážková pokrývka
+visibility,Viditelnost
+cloudcover,Oblačnost
+latlon,Zeměpisná šířka a délka
+address,Adresa
+sealevelpressure,Hladina moře Tlak
+stationdistance,Střední vzdálenost stanic
+pop,Šance na srážky (%)
+snow,Sníh
+snowdepth,Hloubka sněhu
+windchill,Chladný vítr
+solarradiation,Sluneční záření
+solarenergy,Sluneční energie
+sunshine,Sluneční svit
+stationInfo,Přispívající stanice
+weatherType,Typ počasí
+type_1,Foukající nebo snášející se sníh
+type_2,Mrholení
+type_3,Silné mrholení
+type_4,Lehké mrholení
+type_5,Silné mrholení/dešť
+type_6,Lehké mrholení/dešť
+type_7,Prachová bouře
+type_8,Mlha
+type_9,Mrznoucí mrholení/mrznoucí déšť
+type_10,Silné mrznoucí mrholení/mrznoucí déšť
+type_11,Slabé mrznoucí mrholení/mrznoucí déšť
+type_12,Mrznoucí mlha
+type_13,Silný mrznoucí déšť
+type_14,Lehký mrznoucí déšť
+type_15,Trychtýřovitý mrak/tornádo
+type_16,Krupobití
+type_17,Led
+type_18,Blesk bez hromu
+type_19,Mlha
+type_20,Srážky v okolí
+type_21,Déšť
+type_22,Silný déšť a sníh
+type_23,Slabý déšť a sníh
+type_24,Dešťové přeháňky
+type_25,Silný déšť
+type_26,Lehký déšť
+type_27,Klesající pokrytí oblohy
+type_28,Zvětšující se pokrytí oblohy
+type_29,Obloha beze změny
+type_30,Kouř nebo opar
+type_31,Sníh
+type_32,Sníh a dešťové přeháňky
+type_33,Sněhové přeháňky
+type_34,Silné sněžení
+type_35,Lehký sníh
+type_36,Vichřice
+type_37,Bouřka
+type_38,Bouřka beze srážek
+type_39,Diamantový prach
+type_40,Kroupy
+type_41,Zataženo
+type_42,Částečně zataženo
+type_43,Jasno
+warmingup,oteplování
+coolingdown,ochlazení
+similartemp,podobné teploty pokračují
+raindays,možnost deště
+snowdays,možnost sněžení
+norain,neočekává se déšť
+mostdays,více dní
+rainallday,možnost deště během dne
+rainclearinglater,déšť se později vyjasní
+rainpm,odpolední déšť
+rainam,ranní déšť
+rainearlyam,ranní déšť
+rainlatepm,pozdně odpolední déšť
+rainampm,ranní a odpolední déšť
+rainchance,možnost deště
+raindefinite,déšť
+snowallday,možnost sněžení během dne
+snowclearinglater,později sněžení
+snowpm,odpoledne sněžení
+snowam,ranní sněžení
+snowearlyam,brzké ranní sněžení
+snowlatepm,pozdní odpolední sníh
+snowampm,sníh ráno a odpoledne
+snowchance,možnost sněžení
+snowdefinite,sníh
+rainsnowallday,možnost deště nebo sněžení během dne
+rainsnowclearinglater,déšť nebo sněžení později
+rainsnowpm,odpoledne déšť nebo sníh
+rainsnowam,ranní déšť nebo sníh
+rainsnowearlyam,brzy ráno sníh nebo déšť
+rainsnowlatepm,pozdní odpoledne déšť nebo sníh
+rainsnowampm,déšť nebo sníh ráno a odpoledne
+rainsnowchance,možnost deště nebo sněžení
+rainsnowdefinite,déšť nebo sníh
+clear,jasno po celý den
+overcast,zatažená obloha po celý den
+cloudierpm,odpoledne přibývání oblačnosti
+clearingpm,odpoledne se vyjasní
+variablecloud,částečně oblačno po celý den
+stormsstrong,možné silné bouřky
+stormspossible,možné bouřky
+skytempprecip,%s a %s s %s.
+skyprecip,%s s %s.
+sky,%s.
+tempprecipweek,%s s %s.
+tempweek,%s.
+dow1,Pondělí
+dow2,Úterý
+dow3,Středa
+dow4,Čtvrtek
+dow5,Pátek
+dow6,Sobota
+dow7,Neděle
+today,dnes
+tomorrow,zítra

@@ -1,0 +1,128 @@
+id,desc
+sky,Égbolt
+wdir,Szélirány
+temp,Hőmérséklet
+dew,Harmatpont
+humidity,Relatív páratartalom
+heatindex,Hő index
+maxt,Maximum Hőmérséklet
+mint,Minimum Hőmérséklet 
+wspd,Szélsebesség
+wgust,Széllökés
+wdir,Szélirány
+precip,Csapadék
+estprecip,Becsült csapadék
+precipcover,Csapadék lefedettsége
+visibility,Látótáv
+cloudcover,Felhőtakaró
+latlon,Szélesség & Hosszúság
+address,Cím
+sealevelpressure,Tengerszinti nyomás
+stationdistance,Állomás távolsága
+pop,Csapadék esélye (%)
+snow,Hó
+snowdepth,Hómélység 
+windchill,Szélhűtés
+solarradiation,Napsugárzás
+solarenergy,Napenergia
+sunshine,Napsütés
+stationInfo,Közreműködő állomások
+weatherType,Időjárás típusa
+type_1,Hófúvás
+type_2,Szitálás
+type_3,Heves szitálás
+type_4,Enyhe szitálás
+type_5,Heves szitálás/eső
+type_6,Enyhe szitálás/eső
+type_7,Por vihar
+type_8,Köd
+type_9,Fagyos szitálás / fagyos eső
+type_10,Heves fagyos szitálás / fagyos eső
+type_11,Enyhe fagyos szitálás / fagyos eső
+type_12,Fagyos köd
+type_13,Heves fagyos eső
+type_14,Enyhe fagyos eső
+type_15,Forgószél / tornádó
+type_16,Jégeső
+type_17,Jég
+type_18,Villám mennydörgés nélkül
+type_19,Köd
+type_20,Csapadék a környéken 
+type_21,Eső
+type_22,Heves eső és hó
+type_23,Enyhe eső és hó
+type_24,Záporeső
+type_25,Heves eső
+type_26,Enyhe eső
+type_27,Égbolt lefedettsége csökken
+type_28,Égbolt lefedettsége növekszik
+type_29,Változatlan ég
+type_30,Füst vagy köd
+type_31,Hó
+type_32,Hó és záporeső
+type_33,Hózápor
+type_34,Heves havazás
+type_35,Gyenge havazás
+type_36,Szélvihar
+type_37,Zivatar
+type_38,Csapadék nélküli zivatar
+type_39,Gyémántpor 
+type_40,Jégeső
+type_41,Felhős
+type_42,Részben felhős
+type_43,Tiszta
+warmingup,felmelegedés
+coolingdown,lehűlés
+similartemp,változatlan hőmérséklet
+raindays,esély esőre 
+snowdays,esély hóra
+norain,nem várható eső
+mostdays,több nap
+rainallday,esély esőre a nap folyamán
+rainclearinglater,Később elálló eső
+rainpm,délutáni eső
+rainam,reggeli eső
+rainearlyam,kora reggeli eső
+rainlatepm,késő délutáni eső
+rainampm,reggel és délután eső
+rainchance,esély esőre
+raindefinite,eső
+snowallday,esély hóra a nap folyamán
+snowclearinglater,havazás később eláll
+snowpm,délutáni havazás
+snowam,reggeli havazás
+snowearlyam,kora reggeli havazás
+snowlatepm,késő délutáni havazás
+snowampm,havazás reggel és délután
+snowchance,esély havazásra
+snowdefinite,havazás
+rainsnowallday,esély havazásra vagy esőre a nap folyamán
+rainsnowclearinglater,Eső vagy havazás lecsendesül később
+rainsnowpm,délutáni eső vagy hó
+rainsnowam,reggeli eső vagy havazás
+rainsnowearlyam,kora reggeli eső vagy havazás
+rainsnowlatepm,késő délutáni eső vagy havazás
+rainsnowampm,eső vagy havazás reggel vagy délután
+rainsnowchance,esély esőre vagy havazásra
+rainsnowdefinite,eső vagy havazás
+clear,tiszta körülmények egész nap
+overcast,felhős ég a nap folyamán
+cloudierpm,délután felhős lesz
+clearingpm,délután kitisztul 
+variablecloud,részben felhős egész nap
+stormsstrong,erős viharok is előfordulhatnak
+stormspossible,viharok előfordulhatnak
+skytempprecip,"%s és %s, valamint %s."
+skyprecip,"%s, valamint %s."
+sky,%s.
+tempprecipweek,"%s, valamint %s."
+tempweek,%s.
+dow1,Hétfő
+dow2,Kedd
+dow3,Szerda
+dow4,Csütörtök
+dow5,Péntek
+dow6,Szombat
+dow7,Vasárnap 
+today,ma
+tomorrow,holnap

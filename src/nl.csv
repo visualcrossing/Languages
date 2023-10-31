@@ -1,0 +1,128 @@
+id,desc
+sky,Bewolking
+wdir,Windrichting
+temp,Temperatuur
+dew,Dauw
+humidity,Vochtigheid
+heatindex,Warmte-index
+maxt,Maximale temperatuur
+mint,Minimale temperatuur
+wspd,Windsnelheid
+wgust,Windstoot
+wdir,Windrichting
+precip,Neerslag
+estprecip,Geschatte neerslag
+precipcover,Neerslagintensiteit
+visibility,Zichtbaarheid
+cloudcover,Bewolkt
+latlon,Breedtegraad & Lengtegraad
+address,Adres
+sealevelpressure,Druk op zeeniveau
+stationdistance,Gemiddelde stationsafstand
+pop,Neerslagkans (%)
+snow,Sneeuw
+snowdepth,Sneeuwdiepte
+windchill,Windverkoelilng
+solarradiation,Zonnestraling
+solarenergy,Zonne energie
+sunshine,Zonneschijn
+stationInfo,Deelnemende stations
+weatherType,Weertype
+type_1,Blazende of drijvende sneeuw
+type_2,Motregen
+type_3,Zware motregen
+type_4,Lichte motregen
+type_5,Zware (mot)regen
+type_6,Lichte (mot)regen
+type_7,Stofstorm
+type_8,Mist
+type_9,Aanvriezende (mot)regen
+type_10,Zware aanvriezende (mot)regen
+type_11,Licht aanvriezende (mot)regen
+type_12,Aanvriezende mist
+type_13,Zware ijzel
+type_14,Lichte ijzel
+type_15,Trechterwolk/Tornado
+type_16,Hagelbuien
+type_17,Ijs
+type_18,Bliksem zonder donder
+type_19,Nevel
+type_20,Neerslag in de omgeving
+type_21,Regen
+type_22,Zware regen en sneeuw
+type_23,Lichte regen en sneeuw
+type_24,Regenbuien
+type_25,Zware regen
+type_26,Lichte regen
+type_27,Luchtdekking neemt af
+type_28,Luchtdekking neemt toe
+type_29,Hemeldek ongewijzigd
+type_30,Rook of navel
+type_31,Sneeuw
+type_32,Sneeuw- en regenbuien
+type_33,Sneeuwbuien
+type_34,Zware sneeuw
+type_35,Lichte sneeuw
+type_36,Buien
+type_37,Onweersbui
+type_38,Onweer zonder neerslag
+type_39,Ijskristallen
+type_40,Hagel
+type_41,Bewolkt
+type_42,Licht bewolkt
+type_43,Helder
+warmingup,opwarmen
+coolingdown,afkoelen
+similartemp,voortdurende vergelijkbare temperatuur
+raindays,mogelijk regen
+snowdays,mogelijk sneeuw
+norain,geen regen verwacht
+mostdays,meerdere dagen
+rainallday,hele dag regen mogelijk
+rainclearinglater,"regen, later opklaringen"
+rainpm,regen in de middag
+rainam,regen in de ochtend
+rainearlyam,regen in de vroege ochtend
+rainlatepm,regen in de late namiddag
+rainampm,regen in de ochtend en middag
+rainchance,kans op regen
+raindefinite,regen
+snowallday,hele dag sneeuw mogelijk
+snowclearinglater,"sneeuw, later opklaringen"
+snowpm,sneeuw in de middag
+snowam,sneeuw in de ochtend
+snowearlyam,sneeuw in de vroege ochtend
+snowlatepm,sneeuw in de late namiddag
+snowampm,sneeuw in de ochtend en middag
+snowchance,kans op sneeuw
+snowdefinite,sneeuw
+rainsnowallday,hele dag regen of sneeuw mogelijk
+rainsnowclearinglater,"regen of sneeuw, later opklaringen"
+rainsnowpm,regen of sneeuw in de middag
+rainsnowam,regen of sneeuw in de ochtend
+rainsnowearlyam,regen of sneeuw in de vroege ochtend
+rainsnowlatepm,regen of sneeuw in de late namiddag
+rainsnowampm,regen of sneeuw in de ochtend en middag
+rainsnowchance,kans op regen of sneeuw
+rainsnowdefinite,regen of sneeuw
+clear,gehele dag helder
+overcast,gehele dag bewolking
+cloudierpm,bewolking in de middag
+clearingpm,helder in de middag
+variablecloud,gedeeltelijk bewolkt
+stormsstrong,mogelijke zware storm
+stormspossible,mogelijke storm
+skytempprecip,%s en %s met %s.
+skyprecip,%s met %s.
+sky,%s.
+tempprecipweek,%s met %s.
+tempweek,%s.
+dow1,maandag
+dow2,dinsdag
+dow3,woensdag
+dow4,donderdag
+dow5,vrijdag
+dow6,zaterdag
+dow7,zondag
+today,vandaag
+tomorrow,morgen

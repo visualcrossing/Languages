@@ -1,0 +1,128 @@
+id,desc
+sky,כיסוי שמיים
+wdir,כיוון הרוח
+temp,טמפרטורה
+dew,נקודת הטל
+humidity,לחות
+heatindex,רמת החום
+maxt,טמפרטורה מקסימלית
+mint,טמפרטורה מינימלית
+wspd,מהירות הרוח
+wgust,משב רוח
+wdir,כיוון הרוח
+precip,משקע
+estprecip,משקעים צפויים
+precipcover,כיסוי משקעים
+visibility,ראות
+cloudcover,כיסוי עננים
+latlon,אורך ורוחב
+address,כתובת
+sealevelpressure,לחץ בגובה פני הים
+stationdistance,מרחק תחנה בממוצע
+pop,סיכוי למשקעים (%)
+snow,שלג
+snowdepth,עומק שלג
+windchill,רוח קרירה
+solarradiation,קרינת השמש
+solarenergy,אנרגיית שמש
+sunshine,אור שמש
+stationInfo,תחנות תורמות
+weatherType,סוג מזג האוויר
+type_1,משב או סחיפת שלג
+type_2,טפטוף
+type_3,טפטוף כבד
+type_4,טפטוף קל
+type_5,טפטוף כבד/גשם
+type_6,טפטוף קל / גשם
+type_7,סופת אבק
+type_8,ערפל
+type_9,טפטוף מקפיא/גשם מקפיא
+type_10,טפטוף כבד מקפיא/גשם מקפיא
+type_11,טפטוף קל מקפיא/גשם מקפיא
+type_12,ערפל מקפיא
+type_13,גשם כבד מקפיא
+type_14,גשם קל מקפיא
+type_15,ענן משפך/טורנדו
+type_16,ממטרי ברד
+type_17,קרח
+type_18,ברק בלי רעם
+type_19,ערפילית
+type_20,משקעים בקרבת מקום
+type_21,גשם
+type_22,גשם כבד ושלג
+type_23,גשם קל ושלג
+type_24,ממטרים
+type_25,גשם כבד
+type_26,גשם קל
+type_27,כיסוי השמיים יורד
+type_28,כיסוי השמיים עולה
+type_29,שמיים ללא שינוי
+type_30,עשן או עובך
+type_31,שלג
+type_32,שלג וממטרים
+type_33,ממטרי שלג
+type_34,שלג כבד
+type_35,שלג קל
+type_36,סופות
+type_37,סופרת רעמים
+type_38,סופת רעמים ללא משקעים
+type_39,אבק יהלומים
+type_40,ברד
+type_41,מעונן
+type_42,מעונן חלקית
+type_43,בהיר
+warmingup,מתחמם
+coolingdown,מתקרר
+similartemp,טמפרטורות דומות בהמשך
+raindays,סיכוי לגשם
+snowdays,סיכוי לשלג
+norain,אין צפי לגשם
+mostdays,מספר ימים
+rainallday,סיכוי לגשם במהלך היום
+rainclearinglater,הגשם יתפזר מאוחר יותר
+rainpm,גשם אחר הצהריים
+rainam,גשם בבוקר
+rainearlyam,גשם בשעות הבוקר המוקדמות
+rainlatepm,גשם לפנות ערב
+rainampm,גשם בבוקר וגם אחר הצהריים
+rainchance,סיכוי לגשם
+raindefinite,גשם
+snowallday,סיכוי לשלג במהלך היום
+snowclearinglater,השלג יתפזר מאוחר יותר
+snowpm,שלג אחר הצהריים
+snowam,שלג בבוקר
+snowearlyam,שלג בשעות הבוקר המוקדמות
+snowlatepm,שלג לפנות ערב
+snowampm,שלג בבוקר וגם אחר הצהריים
+snowchance,סיכוי לשלג
+snowdefinite,שלג
+rainsnowallday,סיכוי לגשם או שלג במהלך היום
+rainsnowclearinglater,גשם או שלג מתפזר מאוחר יותר
+rainsnowpm,גשם או שלג אחר הצהריים
+rainsnowam,גשם או שלג בבוקר
+rainsnowearlyam,שלג או גשם בשעות הבוקר המוקדמות
+rainsnowlatepm,גשם או שלג בשעות אחר הצהריים המאוחרות
+rainsnowampm,גשם או שלג בבוקר ואחר הצהריים
+rainsnowchance,סיכוי לגשם או שלג
+rainsnowdefinite,גשם או שלג
+clear,שמיים בהירים במהלך היום
+overcast,שמיים מעוננים במהלך היום
+cloudierpm,נהיה מעונן אחר הצהריים
+clearingpm,מתבהר אחר הצהריים
+variablecloud,מעונן חלקית במהלך היום
+stormsstrong,סופות חזקות אפשריות
+stormspossible,סופות אפשריות
+skytempprecip,%s ו %s עם %s.
+skyprecip,%s עם %s.
+sky,%s.
+tempprecipweek,%s עם %s.
+tempweek,%s.
+dow1,שני
+dow2,שלישי
+dow3,רביעי
+dow4,חמישי
+dow5,שישי
+dow6,שבת
+dow7,ראשון
+today,היום
+tomorrow,מחר

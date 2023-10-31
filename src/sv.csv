@@ -1,0 +1,128 @@
+id,desc
+sky,Himmel
+wdir,Vindriktning
+temp,Temperatur
+dew,Daggpunkt
+humidity,Relativ fuktighet
+heatindex,Värmeindex
+maxt,Max Temperatur
+mint,Min Temperatur
+wspd,Vindhastighet
+wgust,Vindbyar
+wdir,Vindriktning
+precip,Nederbörd
+estprecip,Estimerad nederbörd
+precipcover,Nederbördsomslag
+visibility,Sikt
+cloudcover,Molntäcke
+latlon,Latitud & Longitud
+address,Adress
+sealevelpressure,Havsnivåtryck
+stationdistance,Medelstationsavstånd
+pop,Risk för nederbörd (%)
+snow,Snö
+snowdepth,Snödjup
+windchill,Vindavkylning
+solarradiation,Solstrålning
+solarenergy,Solenergi
+sunshine,Solsken
+stationInfo,Bidragande stationer
+weatherType,Vädertyp
+type_1,Blåsande eller drivande snö
+type_2,Duggregn
+type_3,Kraftigt duggregn
+type_4,Lätt duggregn
+type_5,Kraftigt duggregn/Regn
+type_6,Lätt duggregn/Regn
+type_7,Sandstorm
+type_8,Dimma
+type_9,Underkylt duggregn/Underkylt regn
+type_10,Kraftigt underkylt regn/Underkylt regn
+type_11,Lätt underkylt duggregn/Underkylt regn
+type_12,Underkyld dimma
+type_13,Kraftigt underkylt regn
+type_14,Lätt underkylt regn
+type_15,Trattmoln/Tornado
+type_16,Hällregn
+type_17,Is
+type_18,Blixt utan åska
+type_19,Dimma
+type_20,Nederbörd i närheten
+type_21,Regn
+type_22,Kraftigt regn och snö
+type_23,Lätt regn och snö
+type_24,Regnskurar
+type_25,Kraftigt regn
+type_26,Lätt regn
+type_27,Molntäcket minskar
+type_28,Molntäcket ökar
+type_29,Himmel oförändrad
+type_30,Rök eller dis
+type_31,Snö
+type_32,Snö och regnskurar
+type_33,Snöskurar
+type_34,Kraftig snö
+type_35,Lätt snö
+type_36,Vindbyar
+type_37,Åska
+type_38,Åska utan nederbörd
+type_39,Iskristaller
+type_40,Hagel
+type_41,Mulet
+type_42,Växlande molnighet
+type_43,Klart
+warmingup,Uppvärmning
+coolingdown,Nedkylning
+similartemp,Fortsatt liknande temperaturer
+raindays,risk för regn
+snowdays,risk för snö
+norain,inget regn att vänta
+mostdays,flera dagar
+rainallday,risk för regn under dagen
+rainclearinglater,regn försvinner senare
+rainpm,eftermiddagsregn
+rainam,morgonregn
+rainearlyam,tidigt morgonregn
+rainlatepm,sent eftermiddagsregn
+rainampm,regn på morgonen och i eftermiddag
+rainchance,risk för regn
+raindefinite,regn
+snowallday,risk för snö under dagen
+snowclearinglater,snön lättar senare
+snowpm,eftermiddagssnö
+snowam,morgonsnö
+snowearlyam,tidig morgonsnö
+snowlatepm,sen eftermiddagssnö
+snowampm,snö på morgonen och i eftermiddag
+snowchance,risk för snö
+snowdefinite,snö
+rainsnowallday,risk för regn eller snö under dagen
+rainsnowclearinglater,regn eller snö lättar senare
+rainsnowpm,eftermiddagsregn eller snö
+rainsnowam,morgonregn eller snö
+rainsnowearlyam,tidigt morgonregn eller snö
+rainsnowlatepm,sent eftermiddagsregn eller snö
+rainsnowampm,regn eller snö på morgonen och i eftermiddag
+rainsnowchance,risk för regn eller snö
+rainsnowdefinite,regn eller snö
+clear,klart under hela dagen
+overcast,molnig himmel hela dagen
+cloudierpm,molnigt i eftermiddag
+clearingpm,klart i eftermiddag
+variablecloud,delvis molnigt under dagen
+stormsstrong,kraftig stormvarning
+stormspossible,stormvarning
+skytempprecip,%s och %s med %s.
+skyprecip,%s med %s.
+sky,%s.
+tempprecipweek,%s med %s.
+tempweek,%s.
+dow1,Måndag
+dow2,Tisdag
+dow3,Onsdag
+dow4,Torsdag
+dow5,Fredag
+dow6,Lördag
+dow7,Söndag
+today,idag
+tomorrow,imorgon
