@@ -1,11 +1,11 @@
 id,desc
 address,العنوان
 clear,طقس صافي طوال اليوم
-clearingpm,صافي بعد الظهيرة
-cloudcover,ملبد بالغيوم
-cloudierpm,ستصبح غائمة في فترة ما بعد الظهر
-coolingdown,تقل درجة الحرارة
-dew,قطرات الندى
+clearingpm,طقس صافي بعد الظهر
+cloudcover,طقس غائم
+cloudierpm,يتحول الطقس الى غائم بعد الظهر
+coolingdown,يطرأ انخفاض على درجات الحرارة
+dew,طقس رطب
 dow1,الإثنين
 dow2,الثلاثاء
 dow3,الأربعاء
@@ -13,52 +13,52 @@ dow4,الخميس
 dow5,الجمعة
 dow6,السبت
 dow7,الأحد
-estprecip,هطول الأمطار
+estprecip,تقدير كمية الهطول
 heatindex,مؤشر الحرارة
 humidity,الرطوبة
 latlon,خطوط الطول والعرض
-maxt,الدرجة العظمى
-mint,الدرجة الصغرى
-mostdays,عدة أيام
-norain,لايتوقع أمطار
-overcast,سماد ملبدة بالغيوم على مدار اليوم
+maxt,درجة الحرارة العظمى
+mint,درجة الحرارة الصغرى
+mostdays,معظم الايام
+norain,لايتوقع هطول الأمطار
+overcast,سماد ملبدة بالغيوم على طوال اليوم
 pop,فرصة هطول الأمطار (%)
 precip,الأمطار
-precipcover,تغطية الأمطار
-rainallday,فرصة هطول الأمطار خلال اليوم
-rainam,ممطر صباحاً
-rainampm,ممطر صباحاًً يمتد الى مابعد الظهيرة
-rainchance,فرصة هطول الآمطار
-rainclearinglater,توقف المطر 
-raindays,فرطة الأمطار
-raindefinite,المطر
-rainearlyam,ممطر في الصباح الباكر
-rainlatepm,أمطار في وقت متأخر بعد الظهر
-rainpm,ممطر ظهراً
-rainsnowallday,فرصة هطول أمطار أو ثلوج طوال اليوم
-rainsnowam,أمطار صباحاً أو ثلوج
-rainsnowampm,مطر أو ثلج في الصباح وبعد الظهر
-rainsnowchance,فرصة لهطول أمطار أو ثلوج
-rainsnowclearinglater,توقف هطول الأمطار أو الثلوج
-rainsnowdefinite,أمطار او ثلوج
-rainsnowearlyam,ممطر أو ثلوج في الصباح الباكر
-rainsnowlatepm,هطول أمطار أو ثلوج في وقت متأخر بعد الظهر
-rainsnowpm,هطول أمطار أو ثلوج بعد الظهر
-sealevelpressure,ضغط مستوى سطح البحر
-similartemp,استمرار درجات حرارة المماثلة
-sky,سماء مغطاة
+precipcover,نطاق الامطار
+rainallday,هنالك فرصة لهطول الأمطار خلال اليوم
+rainam,طقس ماطر صباحاً
+rainampm,طقس ماطر صباحاًً وحتى ساعات المساء الاولى
+rainchance,فرصة لهطول الآمطار
+rainclearinglater,يتوقع توقف الامطار
+raindays,فرصة لهطول المطر
+raindefinite,طقس ماطر
+rainearlyam,طقس ماطر في الصباح الباكر
+rainlatepm,طقس ماطر مع ساعات العصر
+rainpm,طقس ماطر مع ساعات الظهيرة
+rainsnowallday,فرصة لهطول زخات من الأمطار والثلوج طوال اليوم
+rainsnowam,فرصة لهطول زخات من الأمطار والثلوج صباحاً
+rainsnowampm,فرصة لهطول زخات من الأمطار والثلوج صباحاً ومساءاً
+rainsnowchance,فرصة هطول امطار وثلوج
+rainsnowclearinglater,توقف هطول الأمطار والثلوج
+rainsnowdefinite,امطار وزخات ثلجية
+rainsnowearlyam,طقس ماطر مع زخات ثلجية في الصباح
+rainsnowlatepm,طقس ماطر مع زهات ثلجية مع ساعات العصر
+rainsnowpm,طقس ماطر مع زخات ثلجية ما بعد الظهر
+sealevelpressure,الضغط الجوي السطخي
+similartemp,استمرار درجات الحرارة كما هي
+sky,الغطاء السحابي
 sky,%s.
 skyprecip,%s ، %s.
 skytempprecip,%s و %s كما %s.
-snow,الثلوج
+snow,ثلوج
 snowallday,فرصة لتساقط الثلوج طوال اليوم
-snowam,ثلوج صباحاً
-snowampm,ثلوج صباحاًً ومابعد الظهيرة
-snowchance,فرصة سقوط الثلوج
+snowam,طقس مثلج صباحاً
+snowampm,طقس مثلج صباحاً وما بعد الظهر
+snowchance,فرصة تساقط الثلوج
 snowclearinglater,توقف تساقط الثلوج
-snowdays,فرصة تساقط الثلوج
+snowdays,فرصة لهطول الثلوج
 snowdefinite,الثلوج
-snowdepth,عمق الثلوج
+snowdepth,تراكم الثلوج
 snowearlyam,ثلوج في الصباح الباكر
 snowlatepm,ثلوج في وقت متأخر بعد الظهر
 snowpm,ثلوج بعد الظهر
@@ -66,42 +66,42 @@ solarenergy,الطاقة الشمسية
 solarradiation,الإشعاع الشمسي
 stationdistance,بعد المحطة الرئيسية
 stationInfo,المحطات المساهمة
-stormspossible,عواصف ممكنة
-stormsstrong,عواصف قوية ممكنة
-sunshine,أشعة الشمس
+stormspossible,فرصة لحدوث عواصف
+stormsstrong,فرصة لحدوث عواصف قوية
+sunshine,ظهور الشمس
 temp,الحرارة
 tempprecipweek,%s ، %s.
 tempweek,%s.
 today,اليوم
 tomorrow,غداً
-type_1,تهب أو تنجرف الثلوج
+type_1,تساقط الثلوج او تطايرها بفعل الرياح
 type_10,رذاذ متجمد كثيف / أمطار متجمدة
 type_11,رذاذ متجمد خفيف / مطر متجمد
-type_12,الضباب المتجمد
+type_12,ضباب متجمد
 type_13,أمطار متجمدة غزيرة
 type_14,أمطار متجمدة خفيفة
-type_15,تفرق السحب / أعصار
-type_16,زخات البرد
+type_15,سحب قمعية / زوبعة
+type_16,زخات برد
 type_17,ثلج
 type_18,برق بدون رعد
 type_19,ضباب
 type_2,رذاذ
-type_20,هطول الأمطار في الجوار
+type_20,هطول امطار في المناطق المجاورة
 type_21,أمطار
 type_22,أمطار غزيرة وثلوج
 type_23,أمطار خفيفة وثلوج
-type_24,زخات المطر
+type_24,زخات من الامطار
 type_25,أمطار غزيرة
 type_26,أمطار خفيفة
-type_27,انخفاض تغطية السماء
-type_28,زيادة تغطية السماء
-type_29,السماء دون تغيير
+type_27,انقشاع نسبي للغيوم
+type_28,تكاثر السحب على ارتفاعات مختلفة
+type_29,بقاء الاجواء كما هي
 type_3,رذاذ كثيف
 type_30,دخان أو ضباب
 type_31,ثلوج
 type_32,زخات من الثلوج والأمطار
-type_33,زخات الثلوج
-type_34,ثلوج شديد
+type_33,زخات من الثلج
+type_34,ثلوج غزيرة جداً
 type_35,ثلوج خفيفة
 type_36,عاصفة ثلجية
 type_37,عاصفة رعدية
@@ -116,13 +116,13 @@ type_5,رذاذ كثيف / مطر
 type_6,رذاذ خفيف / مطر
 type_7,عاصفة رملية
 type_8,ضباب
-type_9,تجميد رذاذ/تجميد المطر
-variablecloud,غائم جزئيا على مدار اليوم
-visibility,الرؤية
-warmingup,الاحماء
+type_9,رذاذ متجمد
+variablecloud,غائم جزئيا على طوال اليوم
+visibility,مدى الرؤية الافقية
+warmingup,ارتفاع على الحرارة
 wdir,اتجاه الرياح
 wdir,اتجاه الرياح
 weatherType,نوع الطقس
-wgust,هبوب الرياح
+wgust,هبات الرياح
 windchill,هواء بارد
 wspd,سرعة الرياح
