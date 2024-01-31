@@ -21,7 +21,7 @@ maxt,درجة الحرارة العظمى
 mint,درجة الحرارة الصغرى
 mostdays,معظم الايام
 norain,لايتوقع هطول الأمطار
-overcast,سماد ملبدة بالغيوم على طوال اليوم
+overcast,سماء ملبدة بالغيوم طوال اليوم
 pop,فرصة هطول الأمطار (%)
 precip,الأمطار
 precipcover,نطاق الامطار
@@ -42,7 +42,7 @@ rainsnowchance,فرصة هطول امطار وثلوج
 rainsnowclearinglater,توقف هطول الأمطار والثلوج
 rainsnowdefinite,امطار وزخات ثلجية
 rainsnowearlyam,طقس ماطر مع زخات ثلجية في الصباح
-rainsnowlatepm,طقس ماطر مع زهات ثلجية مع ساعات العصر
+rainsnowlatepm,طقس ماطر مع زخات ثلجية مع ساعات العصر
 rainsnowpm,طقس ماطر مع زخات ثلجية ما بعد الظهر
 sealevelpressure,الضغط الجوي السطخي
 similartemp,استمرار درجات الحرارة كما هي
@@ -117,7 +117,7 @@ type_6,رذاذ خفيف / مطر
 type_7,عاصفة رملية
 type_8,ضباب
 type_9,رذاذ متجمد
-variablecloud,غائم جزئيا على طوال اليوم
+variablecloud,غائم جزئيا طوال اليوم
 visibility,مدى الرؤية الافقية
 warmingup,ارتفاع على الحرارة
 wdir,اتجاه الرياح
