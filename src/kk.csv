@@ -1,0 +1,128 @@
+id,desc
+sky,Төмен
+wdir,Жел бағыты
+temp,Температура
+dew,Тауық нүктесі
+humidity,Тымсыз неміс
+heatindex,Ашу индексі
+maxt,Ең үлкен температура
+mint,Ең кіші температура
+wspd,Жел тездігі
+wgust,Жел бұрғысы
+wdir,Жел бағыты
+precip,Құралған
+estprecip,Ұсынылған құралған
+precipcover,Құралғанға асып кету
+visibility,Көрініс ауқымдылығы
+cloudcover,Бұлттың ауырлығы
+latlon,Ендіктік & Бойлық
+address,Мекен-жай
+sealevelpressure,Теңіз деңгейінің басыншылығы
+stationdistance,Ортастанция аралығы
+pop,Құралған мүмкіндігі (%)
+snow,Қар
+snowdepth,Қар білігі
+windchill,Жел желісі
+solarradiation,Күннің жарығы
+solarenergy,Күннің энергиясы
+sunshine,Күн жарығы
+stationInfo,Көмекші орталықтар
+weatherType,Ауа райы
+type_1,Жел алып келетін немесе түйелтуінен құтқару
+type_2,Жалғыз түйелту
+type_3,Шиделенген түйелту
+type_4,Кіші түйелту
+type_5,Шиделенген түйелту/жау
+type_6,Кіші түйелту/жау
+type_7,Толқын ауыл
+type_8,Туман
+type_9,Қатты қар түйелту/қатты қар
+type_10,Жалғыз қатты қар түйелту/қатты қар
+type_11,Кіші қатты қар түйелту/қатты қар
+type_12,Қатты қар туман
+type_13,Қатты қар
+type_14,Кіші қатты қар
+type_15,Қызыл ауақшасы/тарантай
+type_16,Асып-су тасымалдаулар
+type_17,Мұз
+type_18,Жар-тарқансыз шындырау
+type_19,Туман
+type_20,Жақындағы құралған
+type_21,Жау
+type_22,Шиделенген жау және қар
+type_23,Кіші жау және қар
+type_24,Жау тасымалдаулары
+type_25,Қатты жау
+type_26,Кіші жау
+type_27,Төмен ауақшақтықты азайту
+type_28,Жоғары ауақшақтықты арттыру
+type_29,Ауа тазарту
+type_30,Күйреу немесе тазалық
+type_31,Қар
+type_32,Қар және жау тасымалдаулары
+type_33,Қар тасымалдаулары
+type_34,Қатты қар
+type_35,Кіші қар
+type_36,Сквалдар
+type_37,Қасірет
+type_38,Қасіреттен тазарту
+type_39,Алтын пышыл
+type_40,Мүлдір
+type_41,Бұлтты ауырлық
+type_42,Күйеулі
+type_43,Таза
+warmingup,Жылыу
+coolingdown,Жылыу
+similartemp,Ортақ температуралар жалғауы продолжается
+raindays,Жау мүмкіндігі
+snowdays,Қар мүмкіндігі
+norain,Жау күтілмейді
+mostdays,Бірнеше күн
+rainallday,Күн бойы жау мүмкіндігі
+rainclearinglater,Кейінгі жау тазалайды
+rainpm,Кешеге жау
+rainam,Таңғы жау
+rainearlyam,Таңғы кешеге жау
+rainlatepm,Кешеге кешінікке жау
+rainampm,Таңғы және кешінікке жау
+rainchance,Жау мүмкіндігі
+raindefinite,Жау
+snowallday,Күн бойы қар мүмкіндігі
+snowclearinglater,Кейінгі қар тазалайды
+snowpm,Кешеге қар
+snowam,Таңғы қар
+snowearlyam,Таңғы кешеге қар
+snowlatepm,Кешеге кешінікке қар
+snowampm,Таңғы және кешінікке қар
+snowchance,Қар мүмкіндігі
+snowdefinite,Қар
+rainsnowallday,Күн бойы жау немесе қар мүмкіндігі
+rainsnowclearinglater,Кейінгі жау немесе қар тазалайды
+rainsnowpm,Кешеге жау немесе қар
+rainsnowam,Таңғы жау немесе қар
+rainsnowearlyam,Таңғы кешеге қар немесе жау
+rainsnowlatepm,Кешеге кешінікке жау немесе қар
+rainsnowampm,Таңғы және кешінікке жау немесе қар
+rainsnowchance,Жау немесе қар мүмкіндігі
+rainsnowdefinite,Жау немесе қар
+clear,Күн бойы жасыл ауа
+overcast,Күн бойы бұлтты
+cloudierpm,Кеше күні бұлттылануда
+clearingpm,Кеше күні тазалану
+variablecloud,Күн бойы көпбұрышты
+stormsstrong,Ұлы касіреттер мүмкін
+stormspossible,Касіреттер мүмкін
+skytempprecip,%s және %s, %s.
+skyprecip,%s, %s.
+sky,%s.
+tempprecipweek,%s және %s, %s.
+tempweek,%s.
+dow1,Дүйсенбі
+dow2,Сейсенбі
+dow3,Сәрсенбі
+dow4,Бейсенбі
+dow5,Жұма
+dow6,Сенбі
+dow7,Жексенбі
+today,бүгін
+tomorrow,ертеңі

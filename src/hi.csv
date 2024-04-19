@@ -1,0 +1,128 @@
+id,desc
+sky,आसमान कवर
+wdir,हवा की दिशा
+temp,तापमान
+dew,ड्यू पॉइंट
+humidity,सापेक्ष नमी
+heatindex,गर्मी का सूचक
+maxt,अधिकतम तापमान
+mint,न्यूनतम तापमान
+wspd,हवा की गति
+wgust,हवा की उड़ान
+wdir,हवा की दिशा
+precip,वर्षा
+estprecip,अनुमानित वर्षा
+precipcover,वर्षा कवर
+visibility,दृश्यता
+cloudcover,बादल कवर
+latlon,अक्षांश और देशांतर
+address,पता
+sealevelpressure,समुद्र स्तर दबाव
+stationdistance,औसत स्टेशन दूरी
+pop,वर्षा की संभावना (%)
+snow,बर्फबारी
+snowdepth,हिममान
+windchill,हवा का ठंडा असर
+solarradiation,सौर विकिरण
+solarenergy,सौर ऊर्जा
+sunshine,सूर्य की किरणें
+stationInfo,योगदानकर्ता स्टेशन
+weatherType,मौसम प्रकार
+type_1,हल्की बर्फबारी
+type_2,बूंदाबांदी
+type_3,भारी बूंदाबांदी
+type_4,हल्की बूंदाबांदी
+type_5,भारी बूंदाबांदी/बारिश
+type_6,हल्की बूंदाबांदी/बारिश
+type_7,धूल आंधी
+type_8,कोहरा
+type_9,जमने वाली बूंदाबांदी/जमने वाली बारिश
+type_10,भारी जमने वाली बूंदाबांदी/जमने वाली बारिश
+type_11,हल्की जमने वाली बूंदाबांदी/जमने वाली बारिश
+type_12,जमने वाला कोहरा
+type_13,भारी जमने वाली बारिश
+type_14,हल्की जमने वाली बारिश
+type_15,फनल क्लाउड/टॉर्नाडो
+type_16,हैल झूंटे
+type_17,बर्फ
+type_18,बिना गरज के बिजली
+type_19,धुंध
+type_20,पास में वर्षा
+type_21,बारिश
+type_22,भारी बारिश और बर्फ
+type_23,हल्की बारिश और बर्फ
+type_24,बारिश की झड़ी
+type_25,भारी बारिश
+type_26,हल्की बारिश
+type_27,आसमान कवर कम हो रहा है
+type_28,आसमान कवर बढ़ रहा है
+type_29,आसमान समान
+type_30,धुंध या कोहरा
+type_31,बर्फ
+type_32,बर्फ और बारिश की झड़ी
+type_33,बर्फ की झड़ी
+type_34,भारी बर्फ
+type_35,हल्की बर्फ
+type_36,स्क्वॉल्स
+type_37,बिजली के साथ बारिश
+type_38,बिजली के बिना गरज के बिजली
+type_39,हीरा धूल
+type_40,हिमपात
+type_41,ओवरकास्ट
+type_42,आंसूधारण
+type_43,साफ
+warmingup,तापमान बढ़ रहा है
+coolingdown,तापमान घट रहा है
+similartemp,समान तापमान जारी है
+raindays,बारिश की संभावना
+snowdays,बर्फबारी की संभावना
+norain,कोई बारिश नहीं है
+mostdays,एकाधिक दिन
+rainallday,पूरे दिन बारिश की संभावना
+rainclearinglater,बाद में बारिश ठंडी हो रही है
+rainpm,दोपहर को बारिश
+rainam,सुबह को बारिश
+rainearlyam,सुबह को पहली बारिश
+rainlatepm,दोपहर को देर से बारिश
+rainampm,सुबह और दोपहर को बारिश
+rainchance,बारिश की संभावना
+raindefinite,बारिश
+snowallday,पूरे दिन बर्फबारी की संभावना
+snowclearinglater,बाद में बर्फबारी ठंडी हो रही है
+snowpm,दोपहर को बर्फबारी
+snowam,सुबह को बर्फबारी
+snowearlyam,सुबह को पहली बर्फबारी
+snowlatepm,दोपहर को देर से बर्फबारी
+snowampm,सुबह और दोपहर को बर्फबारी
+snowchance,बर्फबारी की संभावना
+snowdefinite,बर्फबारी
+rainsnowallday,पूरे दिन बारिश या बर्फबारी की संभावना
+rainsnowclearinglater,बाद में बारिश या बर्फबारी ठंडी हो रही है
+rainsnowpm,दोपहर को बारिश या बर्फबारी
+rainsnowam,सुबह को बर्फबारी या बारिश
+rainsnowearlyam,सुबह को पहली बर्फबारी या बारिश
+rainsnowlatepm,दोपहर को देर से बारिश या बर्फबारी
+rainsnowampm,सुबह और दोपहर को बारिश या बर्फबारी
+rainsnowchance,बारिश या बर्फबारी की संभावना
+rainsnowdefinite,बारिश या बर्फबारी
+clear,पूरे दिन साफ आसमान
+overcast,पूरे दिन बादलबंद
+cloudierpm,दोपहर को बादलबंद होने लगेगा
+clearingpm,दोपहर को साफ हो रहा है
+variablecloud,पूरे दिन आरक्षित बादल
+stormsstrong,मजबूत तूफान
+stormspossible,तूफान संभावित
+skytempprecip,%s और %s, %s के साथ।
+skyprecip,%s, %s के साथ।
+sky,%s।
+tempprecipweek,%s और %s, %s के साथ।
+tempweek,%s।
+dow1,सोमवार
+dow2,मंगलवार
+dow3,बुधवार
+dow4,गुरुवार
+dow5,शुक्रवार
+dow6,शनिवार
+dow7,रविवार
+today,आज
+tomorrow,कल
