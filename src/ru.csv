@@ -113,9 +113,9 @@ variablecloud,частично облачно в течение дня
 stormsstrong,возможен сильный шторм
 stormspossible,возможен шторм
 skytempprecip,%s и %s с %s.
-skyprecip,%s с %s.
+skyprecip,"%s, %s"
 sky,%s.
-tempprecipweek,%s с %s.
+tempprecipweek,"%s, %s"
 tempweek,%s.
 dow1,понедельник
 dow2,вторник
