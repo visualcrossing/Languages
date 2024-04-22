@@ -112,10 +112,10 @@ clearingpm,Кеше күні тазалану
 variablecloud,Күн бойы көпбұрышты
 stormsstrong,Ұлы касіреттер мүмкін
 stormspossible,Касіреттер мүмкін
-skytempprecip,%s және %s, %s.
+skytempprecip,"%s және %s, %s."
 skyprecip,%s, %s.
 sky,%s.
-tempprecipweek,%s және %s, %s.
+tempprecipweek,"%s және %s, %s."
 tempweek,%s.
 dow1,Дүйсенбі
 dow2,Сейсенбі
