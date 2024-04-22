@@ -112,11 +112,11 @@ clearingpm,прояснение во второй половине дня
 variablecloud,частично облачно в течение дня
 stormsstrong,возможен сильный шторм
 stormspossible,возможен шторм
-skytempprecip,%s и %s с %s.
-skyprecip,%s с %s.
-sky,%s.
-tempprecipweek,%s с %s.
-tempweek,%s.
+skytempprecip,"%s и %s, %s"
+skyprecip,"%s, %s"
+sky,%s
+tempprecipweek,"%s, %s"
+tempweek,%s
 dow1,понедельник
 dow2,вторник
 dow3,среда
