@@ -112,10 +112,10 @@ clearingpm,दोपहर को साफ हो रहा है
 variablecloud,पूरे दिन आरक्षित बादल
 stormsstrong,मजबूत तूफान
 stormspossible,तूफान संभावित
-skytempprecip,%s और %s, %s के साथ।
-skyprecip,%s, %s के साथ।
+skytempprecip,"%s और %s, %s के साथ।"
+skyprecip,"%s, %s के साथ।"
 sky,%s।
-tempprecipweek,%s और %s, %s के साथ।
+tempprecipweek,"%s और %s, %s के साथ।"
 tempweek,%s।
 dow1,सोमवार
 dow2,मंगलवार
