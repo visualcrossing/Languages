@@ -115,7 +115,7 @@ stormspossible,तूफान संभावित
 skytempprecip,"%s और %s, %s के साथ।"
 skyprecip,"%s, %s के साथ।"
 sky,%s।
-tempprecipweek,"%s और %s, %s के साथ।"
+tempprecipweek,"%s और %s"
 tempweek,%s।
 dow1,सोमवार
 dow2,मंगलवार
