@@ -1,0 +1,128 @@
+id,desc
+sky,ఆకాశ కవర్
+wdir,గాలి దిశ
+temp,ఉష్ణోగ్రత
+dew,మంచు
+humidity,తేమ
+heatindex,వేడి సూచిక
+maxt,గరిష్ఠ ఉష్ణోగ్రత
+mint,కనిష్ఠ ఉష్ణోగ్రత
+wspd,గాలి వేగం
+wgust,గాలి జోరు
+wdir,గాలి దిశ
+precip,వర్షపాతం
+estprecip,వర్షపాతం అంచనా 
+precipcover,వర్షం కవర్
+visibility,దృశ్యమానత
+cloudcover,మేఘ కవర్
+latlon,అక్షాంశం మరియు రేఖాంశం
+address,చిరునామా
+sealevelpressure,సముద్ర మట్టం పీడనం
+stationdistance,సగటు స్టేషన్ దూరం
+pop,వర్షపాతం అవకాశం (%)
+snow,మంచు
+snowdepth,మంచు లోతు
+windchill,గాలి శీతలీకరణ
+solarradiation,సౌర వికిరణం
+solarenergy,సౌర శక్తి
+sunshine,సూర్యకాంతి
+stationInfo,సహకార స్టేషన్లు
+weatherType,వాతావరణ రకం
+type_1,తేలిక హిమపాతం
+type_2,చినుకులు
+type_3,భారీ చినుకులు
+type_4,తేలిక చినుకులు
+type_5,భారీ చినుకులు/వర్షం
+type_6,తేలి చినుకులు/వర్షం
+type_7,ఇసుక తుఫాను
+type_8,పొగమంచు
+type_9,గడ్డకట్టే చినుకులు/గడ్డకట్టే వర్షం
+type_10,భారీ గడ్డకట్టే చినుకులు/గడ్డకట్టే వర్షం
+type_11,తేలిక గడ్డకట్టే చినుకులు/గడ్డకట్టే వర్షం
+type_12,గడ్డకట్టిన పొగమంచు
+type_13,భారీ గడ్డకట్టిన వర్షం
+type_14,తేలిక గడ్డకట్టిన వర్షం
+type_15,ఫన్నెల్ క్లౌడ్/సుడిగాలి
+type_16,వడగళ్ల వాన
+type_17,మంచు
+type_18,ఉరుములు లేకుండా మెరుపులు
+type_19,పొగమంచు
+type_20,పరిసర ప్రాంతాలలో వర్షం
+type_21,వర్షం
+type_22,భారీ వర్షం మరియు మంచు
+type_23,తేలిక వర్షం మరియు మంచు
+type_24,వర్షం
+type_25,భారీ వర్షం
+type_26,తేలిక వర్షం
+type_27,ఆకాశ కవర్ తగ్గుతుంది
+type_28,ఆకాశ కవర్ పెరుగుతుంది
+type_29,ఆకాశ కవర్ మారలేదు
+type_30,పొగ
+type_31,మంచు
+type_32,మంచు మరియు వర్షం
+type_33,మంచు వర్షం
+type_34,భారీ మంచు
+type_35,తేలిక మంచు
+type_36,తుఫాను గాలి
+type_37,ఉరుముల తుఫాను
+type_38,వర్షం లేకుండా ఉరుములు 
+type_39,వజ్రాల ధూళి
+type_40,వడగళ్లు
+type_41,మేఘావృతం
+type_42,పాక్షికంగా మేఘావృతం
+type_43,స్పష్టం
+warmingup,వెచ్చగా అవుతుంది
+coolingdown,చల్లబడుతోంది
+similartemp,ఇలాంటి ఉష్ణోగ్రతలు కొనసాగుతాయి
+raindays,వర్షం పడే అవకాశం
+snowdays,మంచు పడే అవకాశం
+norain,వర్షం పడే అవకాశం లేదు
+mostdays,అనేక రోజులు
+rainallday,రోజంతా వర్షం పడే అవకాశం
+rainclearinglater,తరువాత వర్షం తగ్గుతుంది
+rainpm,మధ్యాహ్నం వర్షం
+rainam,ఉదయం వర్షం
+rainearlyam,తెల్లవారుజామున వర్షం
+rainlatepm,మద్యాహ్నం తరువాత వర్షం
+rainampm,ఉదయం మరియు మధ్యాహ్నం వర్షం
+rainchance,వర్షం అవకాశం
+raindefinite,వర్షం
+snowallday,రోజంతా మంచు అవకాశం
+snowclearinglater,తరువాత మంచు తగ్గుతుంది
+snowpm,మధ్యాహ్నం మంచు
+snowam,ఉదయం మంచు
+snowearlyam,తెల్లవారుజామున మంచు
+snowlatepm,మధ్యాహ్నం తరువాత మంచు
+snowampm,ఉదయం మరియు మధ్యాహ్నం మంచు
+snowchance,మంచు అవకాశం
+snowdefinite,మంచు
+rainsnowallday,రోజంతా వర్షం లేదా మంచు అవకాశం
+rainsnowclearinglater,తరువాత వర్షం లేదా మంచు తగ్గుతుంది
+rainsnowpm,మధ్యాహ్నం వర్షం లేదా మంచు
+rainsnowam,ఉదయం వర్షం లేదా మంచు
+rainsnowearlyam,తెల్లవారుజామున వర్షం లేదా మంచు
+rainsnowlatepm,మధ్యాహ్నం తరువాత వర్షం లేదా మంచు
+rainsnowampm,ఉదయం మరియు మధ్యాహ్నం వర్షం లేదా మంచు
+rainsnowchance,వర్షం లేదా మంచు అవకాశం
+rainsnowdefinite,వర్షం లేదా మంచు
+clear,రోజంతా స్పష్టమైన పరిస్థితులు
+overcast,రోజంతా మేఘావృత ఆకాశం
+cloudierpm,మధ్యాహ్నం మేఘావృతం అవుతుంది
+clearingpm,మధ్యాహ్నం స్పష్టంగా అవుతుంది
+variablecloud,రోజంతా పాక్షికంగా మేఘావృతం
+stormsstrong,బలమైన తుఫాను అవకాశం
+stormspossible,తుఫాను అవకాశం
+skytempprecip,%s మరియు %s తో %s.
+skyprecip,%s తో %s.
+sky,%s.
+tempprecipweek,%s తో %s.
+tempweek,%s.
+dow1,సోమవారం
+dow2,మంగళవారం
+dow3,బుధవారం
+dow4,గురువారం
+dow5,శుక్రవారం
+dow6,శనివారం
+dow7,ఆదివారం
+today,నేడు
+tomorrow,రేపు

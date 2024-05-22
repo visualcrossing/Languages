@@ -1,0 +1,128 @@
+id,desc
+sky,आकाशाचे आवरण
+wdir,वाऱ्याची दिशा
+temp,तापमान
+dew,दव बिंदू
+humidity,सापेक्ष आर्द्रता
+heatindex,उष्णता निर्देशांक
+maxt,कमाल तापमान
+mint,किमान तापमान
+wspd,वाऱ्याचा वेग
+wgust,वाऱ्याची झुळूक
+wdir,वाऱ्याची दिशा
+precip,पर्जन्य
+estprecip,अंदाजित पर्जन्य
+precipcover,पर्जन्य आवरण
+visibility,दृश्यता
+cloudcover,ढगांचे आच्छादन
+latlon,अक्षांश व रेखांश
+address,पत्ता
+sealevelpressure,समुद्र स्तराचा दबाव
+stationdistance,सरासरी स्टेशन अंतर
+pop,पर्जन्याची शक्यता (%)
+snow,हिम
+snowdepth,हिमाची खोली
+windchill,वारा गारवा
+solarradiation,सौर विकिरण
+solarenergy,सौर ऊर्जा
+sunshine,सूर्यप्रकाश
+stationInfo,योगदान करणारी स्टेशन्स
+weatherType,हवामान प्रकार
+type_1,वारा किंवा वाहणारा बर्फ 
+type_2,वृष्टी
+type_3,जोरदार वृष्टी
+type_4,हलकी वृष्टी
+type_5,जोरदार वृष्टी/पाऊस
+type_6,हलकी वृष्टी/पाऊस
+type_7,धूळ वादळ
+type_8,धुके
+type_9,गोठलेली वृष्टी/गोठलेला पाऊस
+type_10,जोरदार गोठलेली वृष्टी/गोठलेला पाऊस
+type_11,हलकी गोठलेली वृष्टी/गोठलेला पाऊस
+type_12,गोठलेले धुके
+type_13,जोरदार गोठलेला पाऊस
+type_14,हलका गोठलेला पाऊस
+type_15,फनेल मेघ/टोर्नाडो
+type_16,गारांचा वर्षाव
+type_17,हिम 
+type_18,कडाडणारी वीज
+type_19,पुन्हा धुके
+type_20,परिसरात पर्जन्य
+type_21,पाऊस
+type_22,जोरदार पाऊस आणि हिम 
+type_23,हलका पाऊस आणि हिम 
+type_24,पावसाची वृष्टी
+type_25,जोरदार पाऊस
+type_26,हलका पाऊस
+type_27,आकाशाचे आवरण कमी होत आहे
+type_28,आकाशाचे आवरण वाढत आहे
+type_29,आकाश अपरिवर्तित
+type_30,धूर किंवा धुकं
+type_31,हिम 
+type_32,हिम आणि पावसाची वृष्टी
+type_33,हिमवर्षाव
+type_34,जोरदार हिम
+type_35,हलकी हिम
+type_36,आंधी वारा
+type_37,वादळ
+type_38,पर्जन्याशिवाय वादळ
+type_39,डायमंड डस्ट
+type_40,गारा
+type_41,ढगाळ
+type_42,अंशतः ढगाळ
+type_43,स्वच्छ
+warmingup,गरम होत आहे
+coolingdown,थंड होत आहे
+similartemp,समान तापमान चालू
+raindays,पावसाची शक्यता
+snowdays,हिमाची शक्यता
+norain,पाऊस अपेक्षित नाही
+mostdays,अनेक दिवस
+rainallday,दिवसभर पावसाची शक्यता
+rainclearinglater,नंतर पाऊस साफ होईल
+rainpm,दुपारचा पाऊस
+rainam,सकाळचा पाऊस
+rainearlyam,पहाटेचा पाऊस
+rainlatepm,उशिरा दुपारचा पाऊस
+rainampm,सकाळ आणि दुपारचा पाऊस
+rainchance,पावसाची शक्यता
+raindefinite,पाऊस
+snowallday,दिवसभर हिमाची शक्यता
+snowclearinglater,नंतर हिम साफ होईल
+snowpm,दुपारचा हिम
+snowam,सकाळचा हिम
+snowearlyam,पहाटेचा हिम
+snowlatepm,उशिरा दुपारचा हिम
+snowampm,सकाळ आणि दुपारचा हिम
+snowchance,हिमाची शक्यता
+snowdefinite,हिम
+rainsnowallday,दिवसभर पाऊस किंवा हिमाची शक्यता
+rainsnowclearinglater,नंतर पाऊस किंवा हिम साफ होईल
+rainsnowpm,दुपारचा पाऊस किंवा हिम
+rainsnowam,सकाळचा पाऊस किंवा हिम
+rainsnowearlyam,पहाटेचा पाऊस किंवा हिम
+rainsnowlatepm,उशिरा दुपारचा पाऊस किंवा हिम
+rainsnowampm,सकाळ आणि दुपारचा पाऊस किंवा हिम
+rainsnowchance,पाऊस किंवा हिमाची शक्यता
+rainsnowdefinite,पाऊस किंवा हिम
+clear,दिवसभर स्वच्छ परिस्थिती
+overcast,दिवसभर ढगाळ आकाश
+cloudierpm,दुपारी ढगाळ होईल
+clearingpm,दुपारी साफ होईल
+variablecloud,दिवसभर अंशतः ढगाळ
+stormsstrong,जोरदार वादळे शक्य
+stormspossible,वादळे शक्य
+skytempprecip,%s आणि %s सह %s.
+skyprecip,%s सह %s.
+sky,%s.
+tempprecipweek,%s सह %s.
+tempweek,%s.
+dow1,सोमवार
+dow2,मंगळवार
+dow3,बुधवार
+dow4,गुरुवार
+dow5,शुक्रवार
+dow6,शनिवार
+dow7,रविवार
+today,आज
+tomorrow,उद्या
