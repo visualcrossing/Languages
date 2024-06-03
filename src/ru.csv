@@ -110,8 +110,8 @@ overcast,облачно в течении всего дня
 cloudierpm,облачно во второй половине дня
 clearingpm,прояснение во второй половине дня
 variablecloud,частично облачно в течение дня
-stormsstrong,возможен сильный шторм
-stormspossible,возможен шторм
+stormsstrong,возможна сильная гроза
+stormspossible,возможна гроза
 skytempprecip,"%s и %s, %s"
 skyprecip,"%s, %s"
 sky,%s
