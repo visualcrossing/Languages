@@ -1,33 +1,33 @@
 id,desc
-sky,sky
-wdir,wdir
-temp,temp
-dew,dew
-humidity,humidity
-heatindex,heatindex
-maxt,maxt
-mint,mint
-wspd,wspd
-wgust,wgust
-wdir,wdir
-precip,precip
-estprecip,estprecip
-precipcover,precipcover
-visibility,visibility
-cloudcover,cloudcover
-latlon,latlon
-address,address
-sealevelpressure,sealevelpressure
-stationdistance,stationdistance
+sky,Bầu Trời
+wdir,Hướng Gió
+temp,Nhiệt Độ
+dew,Điểm Sương
+humidity,Độ Ẩm
+heatindex,Chỉ Số Nhiệt Độ
+maxt,Nhiệt Độ Cao Nhất
+mint,Nhiệt Độ Thấp Nhất
+wspd,Tốc Độ Gió
+wgust,Gió Giật
+wdir,Hướng Gió
+precip,Lượng Mưa
+estprecip,Lượng Mưa Ước Tính
+precipcover,Lượng Mưa Bao Phủ
+visibility,Tầm Nhìn
+cloudcover,Mây Che Phủ
+latlon,Vĩ Độ - Kinh Độ
+address,Địa Chỉ
+sealevelpressure,Áp Suất Nước Biển
+stationdistance,Khoảng Cách Trạm
 pop,pop
-snow,snow
-snowdepth,snowdepth
-windchill,windchill
-solarradiation,solarradiation
-solarenergy,solarenergy
-sunshine,sunshine
-stationInfo,stationInfo
-weatherType,weatherType
+snow,Tuyết
+snowdepth,Độ Dày Của Tuyết
+windchill,Gió Lạnh
+solarradiation,Bức Xạ Mặt Trời
+solarenergy,Năng Lượng Mặt Trời
+sunshine,Ánh Sáng Mặt Trời
+stationInfo,Thông Tin Trạm
+weatherType,Loại Thời Tiết
 type_1,type_1
 type_2,type_2
 type_3,type_3
@@ -72,46 +72,46 @@ type_41,type_41
 type_42,type_42
 type_43,type_43
 ارتفاع على درجات الحرارة,ارتفاع على درجات الحرارة
-coolingdown,coolingdown
-similartemp,similartemp
-raindays,raindays
-snowdays,snowdays
-norain,norain
-mostdays,mostdays
-rainallday,rainallday
+coolingdown,Hạ Nhiệt
+similartemp,Nhiệt Độ Tương Tự
+raindays,Ngày Mưa
+snowdays,Ngày Tuyết
+norain,Không Mưa
+mostdays,Hầu Hết Các Ngày
+rainallday,Mưa Cả Ngày
 rainclearinglater,rainclearinglater
-rainpm,rainpm
-rainam,rainam
-rainearlyam,rainearlyam
-rainlatepm,rainlatepm
-rainampm,rainampm
-rainchance,rainchance
-raindefinite,raindefinite
-snowallday,snowallday
+rainpm,Mưa Buổi Tối
+rainam,Mưa Buổi Sáng
+rainearlyam,Mưa Sáng Sớm
+rainlatepm,Mưa Buổi Chiều
+rainampm,Mưa Lúc Chiều
+rainchance,Khả Năng Mưa
+raindefinite,Nhất Định Có Mưa
+snowallday,Có Tuyết Cả Ngày
 snowclearinglater,snowclearinglater
-snowpm,snowpm
-snowam,snowam
-snowearlyam,snowearlyam
-snowlatepm,snowlatepm
-snowampm,snowampm
-snowchance,snowchance
-snowdefinite,snowdefinite
-rainsnowallday,rainsnowallday
+snowpm,Tuyết Rơi Buổi Tối
+snowam,Tuyết Rơi Buổi Sáng
+snowearlyam,Tuyết Rơi Sáng Sớm
+snowlatepm,Tuyết Rơi Chiều Muộn
+snowampm,Tuyết Rơi Buổi Chiều
+snowchance,Khả Năng Có Tuyết
+snowdefinite,Nhất Định Có Tuyết
+rainsnowallday,Mưa Tuyết Cả Ngày
 rainsnowclearinglater,rainsnowclearinglater
-rainsnowpm,rainsnowpm
-rainsnowam,rainsnowam
-rainsnowearlyam,rainsnowearlyam
-rainsnowlatepm,rainsnowlatepm
-rainsnowampm,rainsnowampm
-rainsnowchance,rainsnowchance
-rainsnowdefinite,rainsnowdefinite
-clear,clear
-overcast,overcast
-cloudierpm,cloudierpm
-clearingpm,clearingpm
-variablecloud,variablecloud
-stormsstrong,stormsstrong
-stormspossible,storms possible
+rainsnowpm,Mưa Tuyết Buổi Tối
+rainsnowam,Mưa Tuyết Buổi Sáng
+rainsnowearlyam,Mưa Tuyết Sáng Sớm
+rainsnowlatepm,Mưa Tuyết Chiều Muộn
+rainsnowampm,Mưa Tuyết Buổi Chiều
+rainsnowchance,Khả Năng Có Mưa Tuyết
+rainsnowdefinite,Nhất Định Có Mưa Tuyết
+clear,Bầu Trời Quang Đãng
+overcast,Trời U Ám
+cloudierpm,Buổi Chiều Nhiều Mây
+clearingpm,Buổi Chiều Trời Quang Đãng
+variablecloud,Mây Trôi
+stormsstrong,Cơn Bão Mạnh
+stormspossible,Có Thể Có Bão
 skytempprecip,%s and %s with %s.
 skyprecip,%s with %s.
 sky,%s.
@@ -124,5 +124,5 @@ dow4,dow4
 dow5,dow5
 dow6,dow6
 dow7,dow7
-today,today
-tomorrow,tomorrow
+today,Hôm Nay
+tomorrow,Ngày Mai
