@@ -5,8 +5,8 @@ temp,Temperatuur
 dew,Dauw
 humidity,Vochtigheid
 heatindex,Warmte-index
-maxt,Maximale temperatuur
-mint,Minimale temperatuur
+maxt,Maximumtemperatuur
+mint,Minimumtemperatuur
 wspd,Windsnelheid
 wgust,Windstoot
 wdir,Windrichting
@@ -22,13 +22,13 @@ stationdistance,Gemiddelde stationsafstand
 pop,Neerslagkans (%)
 snow,Sneeuw
 snowdepth,Sneeuwdiepte
-windchill,Windverkoelilng
+windchill,Windverkoeling
 solarradiation,Zonnestraling
-solarenergy,Zonne energie
+solarenergy,Zonne-energie
 sunshine,Zonneschijn
 stationInfo,Deelnemende stations
 weatherType,Weertype
-type_1,Blazende of drijvende sneeuw
+type_1,Driftsneeuw
 type_2,Motregen
 type_3,Zware motregen
 type_4,Lichte motregen
@@ -44,7 +44,7 @@ type_13,Zware ijzel
 type_14,Lichte ijzel
 type_15,Trechterwolk/Tornado
 type_16,Hagelbuien
-type_17,Ijs
+type_17,IJs
 type_18,Bliksem zonder donder
 type_19,Nevel
 type_20,Neerslag in de omgeving
@@ -54,10 +54,10 @@ type_23,Lichte regen en sneeuw
 type_24,Regenbuien
 type_25,Zware regen
 type_26,Lichte regen
-type_27,Luchtdekking neemt af
-type_28,Luchtdekking neemt toe
+type_27,Afnemende bewolking
+type_28,Toenemende bewolking
 type_29,Hemeldek ongewijzigd
-type_30,Rook of navel
+type_30,Rook of nevel
 type_31,Sneeuw
 type_32,Sneeuw- en regenbuien
 type_33,Sneeuwbuien
@@ -66,14 +66,14 @@ type_35,Lichte sneeuw
 type_36,Buien
 type_37,Onweersbui
 type_38,Onweer zonder neerslag
-type_39,Ijskristallen
+type_39,IJskristallen
 type_40,Hagel
 type_41,Bewolkt
 type_42,Licht bewolkt
 type_43,Helder
-warmingup,opwarmen
-coolingdown,afkoelen
-similartemp,voortdurende vergelijkbare temperatuur
+warmingup,warmer
+coolingdown,koeler
+similartemp,vergelijkbare temperatuur
 raindays,mogelijk regen
 snowdays,mogelijk sneeuw
 norain,geen regen verwacht
@@ -106,7 +106,7 @@ rainsnowampm,regen of sneeuw in de ochtend en middag
 rainsnowchance,kans op regen of sneeuw
 rainsnowdefinite,regen of sneeuw
 clear,gehele dag helder
-overcast,gehele dag bewolking
+overcast,gehele dag bewolkt
 cloudierpm,bewolking in de middag
 clearingpm,helder in de middag
 variablecloud,gedeeltelijk bewolkt
