@@ -1,0 +1,128 @@
+id, desc
+sky,Acoperire cer
+wdir,Direcția vântului
+temp,Temperatura
+dew,Punctul de rouă
+humidity,Umiditate relativă
+heatindex,Indicele de căldură
+maxt,Temperatura maximă
+mint,Temperatura minimă
+wspd,Viteza vântului
+wgust,Rafală de vânt
+wdir,Direcția vântului
+precip,Precipitații
+estprecip,Precipitații estimate
+precipcover,Precipitații acoperire
+visibility,Vizibilitate
+cloudcover,Acoperire cu nori
+latlon,Latitudine și longitudine
+address,Adresă
+sealevelpressure,Presiunea la nivelul mării
+stationdistance,Distanța medie față de stație
+pop,Șanse de precipitații (%)
+snow,Ninsoare
+snowdepth,Grosimea stratului de zăpadă
+windchill,Efect de răcire a vântului
+solarradiation,Radiația solară
+solarenergy,Energie solară
+sunshine,Însorit
+stationInfo,Stații contribuante
+weatherType,Tip vreme
+type_1,Viscol
+type_2,Burniță
+type_3,Burniță abundentă
+type_4,Burniță ușoară
+type_5,Burniță abundentă/Ploaie
+type_6,Burniță ușoară/Ploaie
+type_7,Furtună de praf
+type_8,Ceață
+type_9,Burniță înghețată/Ploaie înghețată
+type_10,Burniță înghețată abundentă/Ploaie înghețată
+type_11,Burniță înghețată ușoară/Ploaie înghețată
+type_12,Ceață înghețată
+type_13,Ploaie înghețată abundentă
+type_14,Ploaie înghețată ușoară
+type_15,Nori tip pâlnie/Tornadă
+type_16,Averse de grindină
+type_17,Gheață
+type_18,Fulgere fără tunet
+type_19,Ceață
+type_20,Precipitații în apropiere
+type_21,Ploaie
+type_22,Ploaie abundentă și ninsoare
+type_23,Ploaie ușoară și ninsoare
+type_24,Averse de ploaie
+type_25,Ploaie abundentă
+type_26,Ploaie ușoară
+type_27,Înseninare
+type_28,Înnorare
+type_29,Cerul neschimbat
+type_30,Fum sau ceață
+type_31,Ninsoare
+type_32,Averse de ploaie și ninsoare
+type_33,Averse de ninsoare
+type_34,Ninsoare abundentă
+type_35,Ninsoare ușoară
+type_36,Vijelie
+type_37,Furtună
+type_38,Furtună fără precipitații
+type_39,Praf de diamant
+type_40,Grindină
+type_41,Cer acoperit
+type_42,Parțial înnorat
+type_43,Senin
+warmingup,încălzire
+coolingdown,răcorire
+similartemp,temperaturi similare în continuare
+raindays,șanse de ploaie
+snowdays,șanse de ninsoare
+norain,nu este așteptată ploaie
+mostdays,mai multe zile
+rainallday,șanse de ploaie pe tot parcursul zilei
+rainclearinglater,ploaia se va opri mai târziu
+rainpm,ploaie după-amiază
+rainam,ploaie dimineața
+rainearlyam,ploaie dimineața devreme
+rainlatepm,ploaie după-amiază târziu
+rainampm,ploaie dimineața și după-amiază
+rainchance,șanse de ploaie
+raindefinite,ploaie
+snowallday,șanse de ninsoare pe tot parcursul zilei
+snowclearinglater,ninsoarea se va opri mai târziu
+snowpm,ninsoare după-amiază
+snowam,ninsoare dimineața
+snowearlyam,ninsoare dimineața devreme
+snowlatepm,ninsoare după-amiază târziu
+snowampm,ninsoare dimineața și după-amiază
+snowchance,șanse de ninsoare
+snowdefinite,ninsoare
+rainsnowallday,șanse de ploaie sau ninsoare pe tot parcursul zilei
+rainsnowclearinglater,ploaia sau ninsoare se vor opri mai târziu
+rainsnowpm,ploaie sau ninsoare după-amiază
+rainsnowam,ploaie sau ninsoare dimineața
+rainsnowearlyam,ninsoare sau ploaie dimineața devreme
+rainsnowlatepm,ploaie sau ninsoare după-amiază târziu
+rainsnowampm,ploaie sau ninsoare dimineață și după-amiază
+rainsnowchance,șanse de ploaie sau ninsoare
+rainsnowdefinite,ploaie sau ninsoare
+clear,cer senin pe tot parcursul zilei
+overcast,cer înnorat pe tot parcursul zilei
+cloudierpm,cer înnorat după-amiază
+clearingpm,cerul se va însenina după-amiază
+variablecloud,parțial înnorat pe tot parcursul zilei
+stormsstrong,furtuni puternice posibile
+stormspossible,furtuni posibile
+skytempprecip,%s și %s cu %s.
+skyprecip,%s cu %s.
+sky,%s.
+tempprecipweek,%s cu %s.
+tempweek,%s.
+dow1,Luni
+dow2,Marți
+dow3,Miercuri
+dow4,Joi
+dow5,Vineri
+dow6,Sâmbătă
+dow7,Duminică
+today,astăzi
+tomorrow,mâine
