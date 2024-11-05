@@ -1,6 +1,6 @@
 id,desc
 address,العنوان
-clear,طقس صافي طوال اليوم
+clear,طقس صافي معظم اليوم
 clearingpm,طقس صافي بعد الظهر
 cloudcover,طقس غائم
 cloudierpm,يتحول الطقس الى غائم بعد الظهر
@@ -20,8 +20,8 @@ latlon,خطوط الطول والعرض
 maxt,درجة الحرارة العظمى
 mint,درجة الحرارة الصغرى
 mostdays,معظم الايام
-norain,لايتوقع هطول الأمطار
-overcast,سماء ملبدة بالغيوم طوال اليوم
+norain,لايتوقع هطول امطار
+overcast,سماء ملبدة بالغيوم معظم اليوم
 pop,فرصة هطول الأمطار (%)
 precip,الأمطار
 precipcover,نطاق الامطار
@@ -35,7 +35,7 @@ raindefinite,طقس ماطر
 rainearlyam,طقس ماطر في الصباح الباكر
 rainlatepm,طقس ماطر مع ساعات العصر
 rainpm,طقس ماطر مع ساعات الظهيرة
-rainsnowallday,فرصة لهطول زخات من الأمطار والثلوج طوال اليوم
+rainsnowallday,فرصة لهطول زخات من الأمطار والثلوج معظم اليوم
 rainsnowam,فرصة لهطول زخات من الأمطار والثلوج صباحاً
 rainsnowampm,فرصة لهطول زخات من الأمطار والثلوج صباحاً ومساءاً
 rainsnowchance,فرصة هطول امطار وثلوج
@@ -44,14 +44,14 @@ rainsnowdefinite,امطار وزخات ثلجية
 rainsnowearlyam,طقس ماطر مع زخات ثلجية في الصباح
 rainsnowlatepm,طقس ماطر مع زخات ثلجية مع ساعات العصر
 rainsnowpm,طقس ماطر مع زخات ثلجية ما بعد الظهر
-sealevelpressure,الضغط الجوي السطخي
+sealevelpressure,الضغط الجوي السطحي
 similartemp,استمرار درجات الحرارة كما هي
 sky,الغطاء السحابي
 sky,%s.
 skyprecip,%s ، %s.
 skytempprecip,%s و %s كما %s.
 snow,ثلوج
-snowallday,فرصة لتساقط الثلوج طوال اليوم
+snowallday,فرصة لتساقط الثلوج معظم اليوم
 snowam,طقس مثلج صباحاً
 snowampm,طقس مثلج صباحاً وما بعد الظهر
 snowchance,فرصة تساقط الثلوج
@@ -66,9 +66,9 @@ solarenergy,الطاقة الشمسية
 solarradiation,الإشعاع الشمسي
 stationdistance,بعد المحطة الرئيسية
 stationInfo,المحطات المساهمة
-stormspossible,فرصة لحدوث عواصف
-stormsstrong,فرصة لحدوث عواصف قوية
-sunshine,ظهور الشمس
+stormspossible,فرصة لحدوث عواصف رعدية
+stormsstrong,فرصة لحدوث عواصف رعدية شديدة
+sunshine,شروق الشمس
 temp,الحرارة
 tempprecipweek,%s ، %s.
 tempweek,%s.
@@ -86,7 +86,7 @@ type_17,ثلج
 type_18,برق بدون رعد
 type_19,ضباب
 type_2,رذاذ
-type_20,هطول امطار في المناطق المجاورة
+type_20,هطول امطار في المناطق المحيطة
 type_21,أمطار
 type_22,أمطار غزيرة وثلوج
 type_23,أمطار خفيفة وثلوج
@@ -117,7 +117,7 @@ type_6,رذاذ خفيف / مطر
 type_7,عاصفة رملية
 type_8,ضباب
 type_9,رذاذ متجمد
-variablecloud,غائم جزئيا طوال اليوم
+variablecloud,غائم جزئيا معظم اليوم
 visibility,مدى الرؤية الافقية
 warmingup,ارتفاع على الحرارة
 wdir,اتجاه الرياح
