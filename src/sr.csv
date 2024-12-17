@@ -28,20 +28,20 @@ solarenergy,Energija sunca
 sunshine,Sunčeva svetlost
 stationInfo,Stanice koje učestvuju
 weatherType,Tip vremena
-type_1,Sneg koji duva ili se nanosi
-type_2,Rominjanje kiše
-type_3,Jaka kiša
-type_4,Slaba Kiša
-type_5,Jaka kiša/kiša
-type_6,Rominjanje/kiša
+type_1,Snežna oluja
+type_2,Sitne kapi
+type_3,Jake sitne kapi
+type_4,Slabe sitne kapi
+type_5,Jake sitne kapi/kiša
+type_6,Slabe sitne kapi/kiša
 type_7,Peščana oluja
 type_8,Magla
-type_9,Smrznuta kiša/ledena kiša
-type_10,Jaka ledena kiša/smrznuta kiša
-type_11,Slaba ledena kiša/smrznuta kiša
-type_12,Zaleđena magla
-type_13,Jaka ledena kiša/smrznuta kiša
-type_14,Slaba ledena kiša/smrznuta kiša
+type_9,Ledene sitne kapi/kiša
+type_10,Jake ledene kapi/kiša
+type_11,Slabe ledene kapi/kiša
+type_12,Ledena magla
+type_13,Jaka ledena kiša
+type_14,Slaba ledena kiša
 type_15,Tornado
 type_16,Pljuskovi sa gradom
 type_17,Led
@@ -54,12 +54,12 @@ type_23,Slaba kiša i sneg
 type_24,Pljuskovi
 type_25,Jaka kiša
 type_26,Slaba kiša
-type_27,Oblačnost se smanjuje
-type_28,Oblačnost se povećava
+type_27,Smanjenje oblačnosti
+type_28,Povećanje oblačnosti
 type_29,Nepromenjena oblačnost
 type_30,Dim ili izmaglica
 type_31,Sneg
-type_32,KIša i sneg
+type_32,Kiša i sneg
 type_33,Sneg i pljuskovi
 type_34,Snežna mećava
 type_35,Lagani sneg
@@ -71,11 +71,11 @@ type_40,Grad
 type_41,Oblačno
 type_42,Mestimično oblačno
 type_43,Čisto
-warmingup,zagrevanje
+warmingup,otopljenje
 coolingdown,zahlađenje
-similartemp,Nastavlja se slična temperatura
-raindays,Moguća kiša
-snowdays,Mogući sneg
+similartemp,nastavak sličnih temperatura
+raindays,moguća kiša
+snowdays,moguć sneg
 norain,ne očekuje se kiša
 mostdays,više dana
 rainallday,moguća kiša tokom dana
@@ -87,8 +87,8 @@ rainlatepm,kiša kasno posle podne
 rainampm,kiša ujutru i popodne
 rainchance,moguća kiša
 raindefinite,kiša
-snowallday,mogućnost snega tokom dana
-snowclearinglater,prestanak snega kasnije
+snowallday,moguć snega tokom dana
+snowclearinglater,kasnije prestanak snega
 snowpm,popodnevni sneg
 snowam,jutarnji sneg
 snowearlyam,sneg rano ujutro
@@ -97,7 +97,7 @@ snowampm,sneg ujutru i popodne
 snowchance,moguć sneg
 snowdefinite,sneg
 rainsnowallday,moguća kiša ili sneg tokom dana
-rainsnowclearinglater,prestanak snega ili kiše kasnije
+rainsnowclearinglater,kasnije prestanak snega ili kiše
 rainsnowpm,popodnevna kiša ili sneg
 rainsnowam,jutarnja kiša ili sneg
 rainsnowearlyam,kiša ili sneg rano ujutru
