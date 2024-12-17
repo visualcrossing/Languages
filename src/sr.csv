@@ -71,11 +71,11 @@ type_40,Grad
 type_41,Oblačno
 type_42,Mestimično oblačno
 type_43,Čisto
-warmingup,zagrevanje
+warmingup,otopljenje
 coolingdown,zahlađenje
-similartemp,Nastavak sličnih temperatura
-raindays,Moguća kiša
-snowdays,Mogući sneg
+similartemp,nastavak sličnih temperatura
+raindays,moguća kiša
+snowdays,moguć sneg
 norain,ne očekuje se kiša
 mostdays,više dana
 rainallday,moguća kiša tokom dana
@@ -87,7 +87,7 @@ rainlatepm,kiša kasno posle podne
 rainampm,kiša ujutru i popodne
 rainchance,moguća kiša
 raindefinite,kiša
-snowallday,mogućnost snega tokom dana
+snowallday,moguć snega tokom dana
 snowclearinglater,kasnije prestanak snega
 snowpm,popodnevni sneg
 snowam,jutarnji sneg
