@@ -1,0 +1,72 @@
+id,desc
+sky,Bulutli
+wdir,Shamol yo‘nalishi
+temp,Harorat
+dew,Shudring nuqtasi
+humidity,Namlik
+heatindex,Issiqlik indeksi
+maxt,Maksimal harorat
+mint,Minimal harorat
+wspd,Shamol tezligi
+wgust,Shamol kuchayishi
+precip,Yog‘ingarchilik
+estprecip,Taxminiy yog‘ingarchilik
+precipcover,Yog‘ingarchilik qamrovi
+visibility,Ko‘rinish
+cloudcover,Bulutli qoplama
+latlon,Kenglik va uzunlik
+address,Manzil
+sealevelpressure,Dengiz sathidagi bosim
+stationdistance,Stansiyaga o‘rtacha masofa
+pop,Yog‘ingarchilik ehtimoli (%)
+snow,Qor
+snowdepth,Qor qoplami qalinligi
+windchill,Shamol sovuqligi
+solarradiation,Quyosh nurlanishi
+solarenergy,Quyosh energiyasi
+sunshine,Quyosh nuri
+stationInfo,Stansiya ma'lumotlari
+weatherType,Ob-havo turi
+type_1,Qor shovqinli yoki kuchli shamol
+type_2,Yomg‘ir tomchilari
+type_3,Kuchli yomg‘ir tomchilari
+type_4,Yengil yomg‘ir tomchilari
+type_5,Kuchli yomg‘ir yoki tomchilar
+type_6,Yomg‘ir va tomchilar
+type_7,Chang bo‘roni
+type_8,Tuman
+type_9,Muzli yomg‘ir yoki shudring
+type_10,Kuchli muzli yomg‘ir
+type_11,Yengil muzli yomg‘ir
+type_12,Muzli tuman
+type_13,Kuchli muzli yomg‘ir
+type_14,Yengil muzli yomg‘ir
+type_15,Tornado
+type_16,Quyoshli yomg‘ir
+type_17,Muz
+type_18,Momaqaldiroq shamsiz
+type_19,Tuman
+type_20,Atrofdagi yog‘ingarchilik
+type_21,Yomg‘ir
+type_22,Kuchli yomg‘ir va qor
+type_23,Yengil yomg‘ir va qor
+type_24,Mo‘l yomg‘ir
+type_25,Kuchli yomg‘ir
+type_26,Yengil yomg‘ir
+type_27,Bulutlar kamaymoqda
+type_28,Bulutlar ortmoqda
+type_29,Osmonda o‘zgarish yo‘q
+type_30,Tutun
+type_31,Qor
+type_32,Ko‘p qor va yomg‘ir
+type_33,Mo‘l qor
+type_34,Qor yog‘ishi
+type_35,Yengil qor
+type_36,Kuchli shamol (bo‘ron)
+type_37,Momaqaldiroq
+type_38,Yomg‘irsiz momaqaldiroq
+type_39,Quyoshli va yomg‘ir
+type_40,Do‘l
+type_41,Qorong‘i havo
+type_42,Qisman bulutli
+type_43,Ochiq osmon
