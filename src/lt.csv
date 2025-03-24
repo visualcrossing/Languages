@@ -1,0 +1,128 @@
+id,desc
+sky,Dangaus danga
+wdir,Vėjo kryptis
+temp,Temperatūra
+dew,Rasos taškas
+humidity,Santykinė drėgmė
+heatindex,Karščio indeksas
+maxt,Maksimali temperatūra
+mint,Minimali temperatūra
+wspd,Vėjo greitis
+wgust,Vėjo gūsis
+wdir,Vėjo kryptis
+precip,Krituliai
+estprecip,Apskaičiuoti krituliai
+precipcover,Kritulių padengimas
+visibility,Matomumas
+cloudcover,Debesuotumas
+latlon,Platuma ir ilguma
+address,Adresas
+sealevelpressure,Jūros lygio slėgis
+stationdistance,Atstumas iki matavimo stoties
+pop,Kritulių tikimybė (%)
+snow,Sniegas
+snowdepth,Sniego gylis
+windchill,Jaučiamas šaltis
+solarradiation,Saulės radiacija
+solarenergy,Saulės energija
+sunshine,Saulės šviesa
+stationInfo,Prisidedančios stotys
+weatherType,Oro tipas
+type_1,Pučiamas arba dreifuojantis sniegas
+type_2,Lijundra
+type_3,Smarki lijundra
+type_4,Silpna lijundra
+type_5,Smarki lijundra/lietus
+type_6,Silpna lijundra/lietus
+type_7,Dulkių audra
+type_8,Rūkas
+type_9,Šalčio lijundra/ledinis lietus
+type_10,Smarki šalčio lijundra/ledinis lietus
+type_11,Silpna šalčio lijundra/ledinis lietus
+type_12,Šalčio rūkas
+type_13,Smarkus ledinis lietus
+type_14,Silpnas ledinis lietus
+type_15,Viesulas/tornadas
+type_16,Krušos liūtys
+type_17,Ledai
+type_18,Žaibas be griaustinio
+type_19,Rūkas
+type_20,Krituliai netoliese
+type_21,Lietus
+type_22,Smarkus lietus ir sniegas
+type_23,Silpnas lietus ir sniegas
+type_24,Lietaus liūtys
+type_25,Smarkus lietus
+type_26,Silpnas lietus
+type_27,Dangaus padengimas mažėja
+type_28,Dangaus padengimas didėja
+type_29,Dangaus padengimas nesikeičia
+type_30,Dūmai arba migla
+type_31,Sniegas
+type_32,Sniego ir lietaus liūtys
+type_33,Sniego liūtys
+type_34,Smarkus sniegas
+type_35,Silpnas sniegas
+type_36,Vėtra
+type_37,Perkūnija
+type_38,Perkūnija be kritulių
+type_39,Deimantinis šerkšnas
+type_40,Kruša
+type_41,Debesuota
+type_42,Dalinai debesuota
+type_43,Giedra
+warmingup,Šiltėja
+coolingdown,Vėsta
+similartemp,Panaši temperatūra išlieka
+raindays,Lietaus tikimybė
+snowdays,Sniego tikimybė
+norain,Lietaus nesitikima
+mostdays,Kelios dienos
+rainallday,Lietaus tikimybė visą dieną
+rainclearinglater,Lietus vėliau išsisklaidys
+rainpm,Popietinis lietus
+rainam,Rytinis lietus
+rainearlyam,Ankstyvo ryto lietus
+rainlatepm,Vėlyvos popietės lietus
+rainampm,Lietus ryte ir po pietų
+rainchance,Lietaus tikimybė
+raindefinite,Lietus
+snowallday,Sniego tikimybė visą dieną
+snowclearinglater,Sniegas vėliau išsisklaidys
+snowpm,Popietinis sniegas
+snowam,Rytinis sniegas
+snowearlyam,Ankstyvo ryto sniegas
+snowlatepm,Vėlyvos popietės sniegas
+snowampm,Sniegas ryte ir po pietų
+snowchance,Sniego tikimybė
+snowdefinite,Sniegas
+rainsnowallday,Lietaus arba sniego tikimybė visą dieną
+rainsnowclearinglater,Lietus arba sniegas vėliau išsisklaidys
+rainsnowpm,Popietinis lietus arba sniegas
+rainsnowam,Rytinis lietus arba sniegas
+rainsnowearlyam,Ankstyvo ryto sniegas arba lietus
+rainsnowlatepm,Vėlyvos popietės lietus arba sniegas
+rainsnowampm,Lietus arba sniegas ryte ir po pietų
+rainsnowchance,Lietaus arba sniego tikimybė
+rainsnowdefinite,Lietus arba sniegas
+clear,Giedros sąlygos visą dieną
+overcast,Debesuota visą dieną
+cloudierpm,Popietę debesuotumas didės
+clearingpm,Popietę debesys išsisklaidys
+variablecloud,Debesuota su pragiedruliais visą dieną
+stormsstrong,Galimos stiprios audros
+stormspossible,Galimos audros
+skytempprecip,%s ir %s su %s.
+skyprecip,%s su %s.
+sky,%s.
+tempprecipweek,%s su %s.
+tempweek,%s.
+dow1,Pirmadienis
+dow2,Antradienis
+dow3,Trečiadienis
+dow4,Ketvirtadienis
+dow5,Penktadienis
+dow6,Šeštadienis
+dow7,Sekmadienis
+today,Šiandien
+tomorrow,Rytoj
