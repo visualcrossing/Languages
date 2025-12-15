@@ -1,0 +1,127 @@
+id,desc
+sky,Kondisi Langit
+wdir,Arah Angin
+temp,Suhu
+dew,Titik Embun
+humidity,Kelembaban
+heatindex,Indeks Panas
+maxt,Suhu Maksimum
+mint,Suhu Minimum
+wspd,Kecepatan Angin
+wgust,Hembusan Angin
+precip,Curah Hujan
+estprecip,Perkiraan Curah Hujan
+precipcover,Cakupan Curah Hujan
+visibility,Visibilitas
+cloudcover,Cakupan Awan
+latlon,Latitude dan Longitude
+address,Alamat
+sealevelpressure,Tekanan Permukaan Laut
+stationdistance,Jarak ke Stasiun Cuaca Terdekat
+pop,Probabilitas Hujan (%)
+snow,Salju
+snowdepth,Kedalaman Salju
+windchill,Suhu Terasa Dingin (Wind Chill)
+solarradiation,Radiasi Matahari
+solarenergy,Energi Surya
+sunshine,Durasi Penyinaran Matahari
+stationInfo,Informasi Stasiun Cuaca
+weatherType,Jenis Cuaca
+type_1,Hujan Salju atau Hanyutan Salju
+type_2,Gerimis
+type_3,Gerimis Lebat
+type_4,Gerimis Ringan
+type_5,Gerimis Lebat/Hujan
+type_6,Gerimis Ringan/Hujan
+type_7,Badai Debu
+type_8,Kabut Tipis
+type_9,Gerimis Beku/Hujan Beku
+type_10,Gerimis Beku Lebat/Hujan Beku
+type_11,Gerimis Beku Ringan/Hujan Beku
+type_12,Kabut Beku
+type_13,Hujan Beku Lebat
+type_14,Hujan Beku Ringan
+type_15,Tornado / Awan Corong
+type_16,Hujan Es
+type_17,Es
+type_18,Petir Tanpa Guntur
+type_19,Kabut Tebal
+type_20,Curah Hujan di Sekitar
+type_21,Hujan
+type_22,Hujan Lebat dan Salju
+type_23,Hujan Ringan dan Salju
+type_24,Hujan Lebat
+type_25,Hujan Sangat Lebat
+type_26,Hujan Ringan
+type_27,Cakupan Langit Menurun
+type_28,Cakupan Langit Meningkat
+type_29,Langit Tidak Berubah
+type_30,Asap atau Kabut
+type_31,Salju
+type_32,Hujan Salju dan Hujan
+type_33,Hujan Salju
+type_34,Salju Tebal
+type_35,Salju Ringan
+type_36,Badai
+type_37,Badai Petir
+type_38,Badai Petir Tanpa Hujan
+type_39,Debu Halus
+type_40,Hujan Es
+type_41,Mendung
+type_42,Sebagian Berawan
+type_43,Cerah
+warmingup,Suhu Menghangat
+coolingdown,Suhu Menurun
+similartemp,Suhu Stabil
+raindays,Kemungkinan Hujan
+snowdays,Kemungkinan Salju
+norain,Tidak Ada Hujan yang Diharapkan
+mostdays,Sebagian Besar Hari
+rainallday,Kemungkinan Hujan Sepanjang Hari
+rainclearinglater,Hujan Reda di Kemudian Hari
+rainpm,Hujan Sore
+rainam,Hujan Pagi
+rainearlyam,Hujan Pagi Sekali
+rainlatepm,Hujan Sore Sekali
+rainampm,Hujan Pagi dan Sore
+rainchance,Kemungkinan Hujan
+raindefinite,Hujan
+snowallday,Kemungkinan Salju Sepanjang Hari
+snowclearinglater,Salju Reda di Kemudian Hari
+snowpm,Salju Sore
+snowam,Salju Pagi
+snowearlyam,Salju Pagi Sekali
+snowlatepm,Salju Sore Sekali
+snowampm,Salju Pagi dan Sore
+snowchance,Kemungkinan Salju
+snowdefinite,Salju
+rainsnowallday,Kemungkinan Hujan atau Salju Sepanjang Hari
+rainsnowclearinglater,Hujan atau Salju Reda di Kemudian Hari
+rainsnowpm,Hujan atau Salju Sore
+rainsnowam,Hujan atau Salju Pagi
+rainsnowearlyam,Hujan atau Salju Pagi Sekali
+rainsnowlatepm,Hujan atau Salju Sore Sekali
+rainsnowampm,Hujan atau Salju Pagi dan Sore
+rainsnowchance,Kemungkinan Hujan atau Salju
+rainsnowdefinite,Hujan atau Salju
+clear,Cerah Sepanjang Hari
+overcast,Mendung Sepanjang Hari
+cloudierpm,Menjadi Mendung di Sore Hari
+clearingpm,Cerah di Sore Hari
+variablecloud,Sebagian Berawan Sepanjang Hari
+stormsstrong,Kemungkinan Badai Kuat
+stormspossible,Kemungkinan Badai
+skytempprecip,%s dan %s dengan %s.
+skyprecip,%s dengan %s.
+sky,%s.
+tempprecipweek,%s dengan %s.
+tempweek,%s.
+dow1,Senin
+dow2,Selasa
+dow3,Rabu
+dow4,Kamis
+dow5,Jumat
+dow6,Sabtu
+dow7,Minggu
+today,Hari Ini
+tomorrow,Besok
