@@ -74,8 +74,8 @@ type_43,Claro
 warmingup,calentando
 coolingdown,enfriándose
 similartemp,continúan temperaturas similares 
-raindays,posibilidad de lluvia en
-snowdays,posibilidad de nieve en
+raindays,posibilidad de lluvia
+snowdays,posibilidad de nieve
 norain,no se espera lluvia
 mostdays,varios días
 rainallday,posibilidad de lluvia durante todo el día
@@ -125,4 +125,5 @@ dow5,viernes
 dow6,sábado
 dow7,domingo
 today,hoy
+
 tomorrow,mañana
