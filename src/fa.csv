@@ -2,116 +2,116 @@ id,desc
 sky,پوشش آسمان
 wdir,جهت باد
 temp,دما
-dew,دمای شبنم
+dew,نقطه شبنم
 humidity,رطوبت نسبی
 heatindex,شاخص گرمایی
-maxt,دمای  بیشینه
-mint,دمای کمینه
+maxt,بیشترین دما
+mint,کمترین دما
 wspd,سرعت باد
-wgust,باد گاستی
-wdir,جهت  باد
+wgust,تندباد لحظه ای
+wdir,جهت باد
 precip,بارش
 estprecip,بارش برآوردی
 precipcover,پوشش بارش
-visibility,دید
+visibility,دید افقی
 cloudcover,پوشش ابر
-latlon,طول و  عرض جغرافیایی
+latlon,طول و عرض جغرافیایی
 address,نشانی
 sealevelpressure,فشار سطح دریا
-stationdistance,فاصله متوسط ایستگاه
-pop,احتمال بارش (%)
+stationdistance,میانگین فاصله ایستگاه
+pop,احتمال بارش %
 snow,برف
 snowdepth,عمق برف
-windchill,سرد باد
+windchill,سوز باد
 solarradiation,تابش خورشید
 solarenergy,انرژی خورشیدی
 sunshine,ساعات آفتابی
-stationInfo,اطلاعات ایستگاهها
+stationInfo,اطالاعات ایستگاه
 weatherType,وضعیت هوا
 type_1,بوران
-type_2,باران ریزه
-type_3, باران  ریزه سنگین
-type_4,باران ریزه سبک
-type_5,باران ریزه سنگین/بارش
-type_6,باران ریزه سبک/بارش
-type_7,گرد و غبار
-type_8,مه
-type_9,باران ریزه یخ زده/بارش یخ زده
-type_10,باران ریزه یخ زده سنگین/بارش یخ زده
-type_11,باران ریزه یخ زده سبک/بارش یخ زده
-type_12,مه یخ زده
-type_13,بارش یخ زده سنگین
-type_14,بارش یخ زده سبک
-type_15,گردباد/ابر قیف شکل
-type_16,بارش تگرگ
-type_17,یخ
+type_2,نم نم باران
+type_3,نم نم باران شدید
+type_4,نم نم باران خفیف
+type_5,نم نم باران شدید/باران
+type_6,نم نم باران خفیف/باران
+type_7,طوفان گرد و غبار
+type_8,مه آلود
+type_9,نم نم باران یخ زده/باران یخ زده
+type_10,نم نم باران یخ زده سنگین/باران یخ زده
+type_11,نم نم باران یخ زده سبک/ باران یخ زده
+type_12,مه یخ زن
+type_13,باران یخ زده شدید
+type_14,باران یخ زده خفیف
+type_15,گردباد
+type_16,رگبار تگرگ
+type_17,یخ زدگی
 type_18,رعد و برق بدون طوفان
-type_19,غبار
-type_20,بارش در همسایگی
-type_21,بارش
-type_22,بارش و برف سنگین
-type_23,بارش و برف سبک
-type_24,رگبار
-type_25,بارش سنگین
-type_26,بارش سبک
-type_27,پوشش ابر در حال کاهش
-type_28,پوشش ابر در حال افزایش
+type_19,مه رقیق
+type_20,بارش در نزدیکی
+type_21,بارانی
+type_22,برف و باران شدید
+type_23,برف و باران خفیف
+type_24,رگبار برف
+type_25,باران شدید
+type_26,باران خفیف
+type_27,کاهش پوشش ابری
+type_28,افزایش پوشش ابری
 type_29,آسمان بدون تغییر
-type_30,دود یا مه
-type_31,برف
-type_32,برف و رگبار
-type_33,بارش برف
-type_34,برف سنگین
-type_35,برف سبک
+type_30,دود و مه
+type_31,برفی
+type_32,رگبار برف و باران
+type_33,رگبار برف
+type_34,برف شدید
+type_35,برف خفیف
 type_36,طوفان برف
-type_37,رعد و برق 
-type_38,رعد و برق بدون بارش
-type_39,غبار الماس
+type_37,رعد و برق
+type_38,رعد و برق شدید بدون بارش
+type_39,غبار یخ
 type_40,تگرگ
-type_41,آسمان پوشیده از ابر
-type_42,قسمتی ابری
+type_41,تمام ابری
+type_42,نیمه ابری
 type_43,صاف
-warmingup,گرم شدن
-coolingdown,سرد شدن 
-similartemp,تداوم دماهای مشابه
-raindays,روزهایی با احتمال بارش
-snowdays,روزهایی با احتمال برف
+warmingup,افزایش دما
+coolingdown,کاهش دما
+similartemp,ادامه دمای مشابه
+raindays,روزهایی با احتمال بارش باران
+snowdays,روزهایی با احتمال بارش برف
 norain,بدون بارش
 mostdays,چند روزه
-rainallday,احتمال بارندگی در طول روز
-rainclearinglater,احتمال قطع بارش برف در ساعات آینده
-rainpm,بارش عصرگاهی
-rainam,بارش صبحگاهی
-rainearlyam,بارش زودهنگام صبحگاهی
-rainlatepm,بارش دیرهنگام عصرگاهی
-rainampm,بارش در صبح و عصر 
-rainchance,احتمال بارش
-raindefinite,بارش
-snowallday,احتمال وقوع برف در طول روز
-snowclearinglater,احتمال قطع بارش در ساعات آینده
-snowpm,بارش برف عصرگاهی
-snowam,بارش برف صبحگاهی
-snowearlyam,بارش برف زودهنگام صبحگاهی
-snowlatepm,بارش برف دیرهنگام عصرگاهی
-snowampm,بارش برف در صبح و عصر
+rainallday,احتمال بارش باران در طول روز
+rainclearinglater,احتمال توقف باران در ساعات آینده
+rainpm,باران عصرگاهی
+rainam,باران صبحگاهی
+rainearlyam,باران اوایل صبح
+rainlatepm,باران اواخر عصر
+rainampm,باران در صبح و عصر
+rainchance,احتمال بارش باران
+raindefinite,باران
+snowallday,احتمال بارش برف در طول روز
+snowclearinglater,توقف بارش برف در ساعات آینده
+snowpm,برف عصرگاهی
+snowam,برف صبحگاهی
+snowearlyam,برف اوایل صبح
+snowlatepm,برف اواخر عصر
+snowampm,برف در صبح و عصر
 snowchance,احتمال بارش برف
 snowdefinite,برف
-rainsnowallday,احتمال وقوع بارش و برف در طول روز
-rainsnowclearinglater,احتمال قطع بارش یا برف در ساعات آینده
-rainsnowpm,بارش یا برف عصرگاهی
-rainsnowam,بارش یا برف صبحگاهی
-rainsnowearlyam,بارش یا برف زودهنگام صبحگاهی
-rainsnowlatepm,بارش یا برف دیرهنگام عصرگاهی
-rainsnowampm,بارش یا برف در صبح وعصر
-rainsnowchance,احتمال بارش یا برف
-rainsnowdefinite,بارش یا برف
+rainsnowallday,احتمال بارش برف یا باران در طول روز
+rainsnowclearinglater,توقف بارش برف یا باران در ساعات آینده
+rainsnowpm,برف و باران عصرگاهی
+rainsnowam,برف و باران صبحگاهی
+rainsnowearlyam,برف یا باران اوایل صبح
+rainsnowlatepm,برف یا باران اواخر عصر
+rainsnowampm,برف و باران در صبح و عصر
+rainsnowchance,احتمال بارش برف یا باران
+rainsnowdefinite,برف یا باران
 clear,آسمان صاف در طول روز
 overcast,آسمان ابری در طول روز
 cloudierpm,آسمان ابری در عصر
 clearingpm,صاف شدن آسمان در عصر
-variablecloud,قسمتی ابری در طول روز
-stormsstrong,احتمال وقوع طوفان شدید
-stormspossible,احتمال وقوع طوفان
+variablecloud,آسمان نیمه ابری در طول روز
+stormsstrong,احتمال طوفان شدید
+stormspossible,احتمال طوفان
 skytempprecip,%s و %s با %s.
 skyprecip,%s با %s.
 sky,%s.
@@ -120,7 +120,7 @@ tempweek,%s.
 dow1,دوشنبه
 dow2,سه شنبه
 dow3,چهارشنبه
-dow4,پنج شنبه
+dow4,پنجشنبه
 dow5,جمعه
 dow6,شنبه
 dow7,یکشنبه
