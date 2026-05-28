@@ -1,5 +1,5 @@
 # Languages
-The language descriptor files for the Visual Crossing Weather API (https://www.visualcrossing.com/weather-api) and Visual Crossing Weather Data (https://www.visualcrossing.com/weather-data) products
+The language descriptor files for the Visual Crossing Weather API (https://www.visualcrossing.com/weather-api/) and Visual Crossing Weather Data (https://www.visualcrossing.com/weather-data/) products
 
 To modify a language descriptor file, please create a pull request for the file request and modify the file as necessary. Please do not change the id column or the sort order to enable rapid review by our team before publication. 
 
